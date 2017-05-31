@@ -1,0 +1,793 @@
+Date/Time,Tournamemnt,Opponent,Point Elapsed Seconds,Line,Our Score - End of Point,Their Score - End of Point,Event Type,Action,Passer,Receiver,Defender,Hang Time (secs),Player 0,Player 1,Player 2,Player 3,Player 4,Player 5,Player 6,Player 7,Player 8,Player 9,Player 10,Player 11,Player 12,Player 13,Player 14,Player 15,Player 16,Player 17,Player 18,Player 19,Player 20,Player 21,Player 22,Player 23,Player 24,Player 25,Player 26,Player 27,Elapsed Time (secs),Begin Area,Begin X,Begin Y,End Area,End X,End Y,Distance Unit of Measure,Absolute Distance,Lateral Distance,Toward Our Goal Distance
+2017-05-28 08:59,EUCQ,MUC,163,O,0,1,Offense,Catch,Aze,Hans,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,0
+2017-05-28 08:59,EUCQ,MUC,163,O,0,1,Offense,Catch,Hans,Aze,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,9
+2017-05-28 08:59,EUCQ,MUC,163,O,0,1,Offense,Catch,Aze,Chris,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,13
+2017-05-28 08:59,EUCQ,MUC,163,O,0,1,Offense,Catch,Chris,Hans,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,17
+2017-05-28 08:59,EUCQ,MUC,163,O,0,1,Offense,Throwaway,Hans,Anonymous,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,21
+2017-05-28 08:59,EUCQ,MUC,163,O,0,1,Defense,Throwaway,,,Anonymous,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,137
+2017-05-28 08:59,EUCQ,MUC,163,O,0,1,Offense,Catch,Matze,Alan,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,141
+2017-05-28 08:59,EUCQ,MUC,163,O,0,1,Offense,Catch,Alan,Hans,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,145
+2017-05-28 08:59,EUCQ,MUC,163,O,0,1,Offense,Catch,Hans,Aze,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,149
+2017-05-28 08:59,EUCQ,MUC,163,O,0,1,Offense,Catch,Aze,Flex,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,153
+2017-05-28 08:59,EUCQ,MUC,163,O,0,1,Offense,Throwaway,Flex,Anonymous,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,157
+2017-05-28 08:59,EUCQ,MUC,163,O,0,1,Defense,Goal,,,Anonymous,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,161
+2017-05-28 08:59,EUCQ,MUC,19,O,1,1,Offense,Catch,Matze,Hans,,,Flex,Flo,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,256
+2017-05-28 08:59,EUCQ,MUC,19,O,1,1,Offense,Catch,Hans,Chris,,,Flex,Flo,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,265
+2017-05-28 08:59,EUCQ,MUC,19,O,1,1,Offense,Catch,Chris,Flo,,,Flex,Flo,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,269
+2017-05-28 08:59,EUCQ,MUC,19,O,1,1,Offense,Goal,Flo,Aze,,,Flex,Flo,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,273
+2017-05-28 08:59,EUCQ,MUC,138,D,1,2,Defense,Pull,,,Kitchen,,Dave,Connor,Cafi,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,277
+2017-05-28 08:59,EUCQ,MUC,138,D,1,2,Defense,D,,,Kitchen,,Dave,Connor,Cafi,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,281
+2017-05-28 08:59,EUCQ,MUC,138,D,1,2,Offense,Catch,Connor,Moritz,,,Dave,Connor,Cafi,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,389
+2017-05-28 08:59,EUCQ,MUC,138,D,1,2,Offense,Catch,Moritz,Cafi,,,Dave,Connor,Cafi,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,393
+2017-05-28 08:59,EUCQ,MUC,138,D,1,2,Offense,Catch,Cafi,Dave,,,Dave,Connor,Cafi,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,397
+2017-05-28 08:59,EUCQ,MUC,138,D,1,2,Offense,Catch,Dave,Kitchen,,,Dave,Connor,Cafi,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,401
+2017-05-28 08:59,EUCQ,MUC,138,D,1,2,Offense,Catch,Kitchen,Moritz,,,Dave,Connor,Cafi,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,405
+2017-05-28 08:59,EUCQ,MUC,138,D,1,2,Offense,Throwaway,Moritz,Anonymous,,,Dave,Connor,Cafi,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,409
+2017-05-28 08:59,EUCQ,MUC,138,D,1,2,Defense,Goal,,,Anonymous,,Dave,Connor,Cafi,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,413
+2017-05-28 08:59,EUCQ,MUC,27,O,1,3,Offense,Catch,Flo,Matze,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,512
+2017-05-28 08:59,EUCQ,MUC,27,O,1,3,Offense,Catch,Matze,Aze,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,521
+2017-05-28 08:59,EUCQ,MUC,27,O,1,3,Offense,Catch,Aze,Hans,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,525
+2017-05-28 08:59,EUCQ,MUC,27,O,1,3,Offense,Catch,Hans,Flex,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,529
+2017-05-28 08:59,EUCQ,MUC,27,O,1,3,Offense,Throwaway,Flex,Anonymous,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,533
+2017-05-28 08:59,EUCQ,MUC,27,O,1,3,Defense,Goal,,,Anonymous,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,537
+2017-05-28 08:59,EUCQ,MUC,15,O,2,3,Offense,Catch,Mike,Matze,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,640
+2017-05-28 08:59,EUCQ,MUC,15,O,2,3,Offense,Catch,Matze,Flo,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,649
+2017-05-28 08:59,EUCQ,MUC,15,O,2,3,Offense,Goal,Flo,Aze,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,653
+2017-05-28 08:59,EUCQ,MUC,130,D,2,4,Defense,Pull,,,Kitchen,6.443,Brandon,Mou K.,Misch,Franz,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,773
+2017-05-28 08:59,EUCQ,MUC,130,D,2,4,Defense,Throwaway,,,Anonymous,,Brandon,Mou K.,Misch,Franz,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,777
+2017-05-28 08:59,EUCQ,MUC,130,D,2,4,Offense,Catch,Franz,Kitchen,,,Brandon,Mou K.,Misch,Franz,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,781
+2017-05-28 08:59,EUCQ,MUC,130,D,2,4,Offense,Catch,Kitchen,Franz,,,Brandon,Mou K.,Misch,Franz,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,785
+2017-05-28 08:59,EUCQ,MUC,130,D,2,4,Offense,Catch,Franz,Walder,,,Brandon,Mou K.,Misch,Franz,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,789
+2017-05-28 08:59,EUCQ,MUC,130,D,2,4,Offense,Drop,Walder,Rene,,,Brandon,Mou K.,Misch,Franz,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,797
+2017-05-28 08:59,EUCQ,MUC,130,D,2,4,Defense,Goal,,,Anonymous,,Brandon,Mou K.,Misch,Franz,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,901
+2017-05-28 08:59,EUCQ,MUC,15,O,3,4,Offense,Catch,Hans,Matze,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,900
+2017-05-28 08:59,EUCQ,MUC,15,O,3,4,Offense,Catch,Matze,Flo,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,909
+2017-05-28 08:59,EUCQ,MUC,15,O,3,4,Offense,Goal,Flo,Chris,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,913
+2017-05-28 08:59,EUCQ,MUC,158,D,4,4,Defense,Pull,,,Kitchen,,Connor,Dave,Cafi,Misch,Moritz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1029
+2017-05-28 08:59,EUCQ,MUC,158,D,4,4,Defense,D,,,Kitchen,,Connor,Dave,Cafi,Misch,Moritz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1033
+2017-05-28 08:59,EUCQ,MUC,158,D,4,4,Offense,Catch,Kitchen,Walder,,,Connor,Dave,Cafi,Misch,Moritz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1037
+2017-05-28 08:59,EUCQ,MUC,158,D,4,4,Offense,Drop,Walder,Dave,,,Connor,Dave,Cafi,Misch,Moritz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1041
+2017-05-28 08:59,EUCQ,MUC,158,D,4,4,Defense,D,,,Kitchen,,Connor,Dave,Cafi,Misch,Moritz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1161
+2017-05-28 08:59,EUCQ,MUC,158,D,4,4,Offense,Catch,Kitchen,Misch,,,Connor,Dave,Cafi,Misch,Moritz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1165
+2017-05-28 08:59,EUCQ,MUC,158,D,4,4,Offense,Throwaway,Misch,Anonymous,,,Connor,Dave,Cafi,Misch,Moritz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1169
+2017-05-28 08:59,EUCQ,MUC,158,D,4,4,Defense,Throwaway,,,Anonymous,,Connor,Dave,Cafi,Misch,Moritz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1173
+2017-05-28 08:59,EUCQ,MUC,158,D,4,4,Offense,Catch,Connor,Moritz,,,Connor,Dave,Cafi,Misch,Moritz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1177
+2017-05-28 08:59,EUCQ,MUC,158,D,4,4,Offense,Catch,Moritz,Cafi,,,Connor,Dave,Cafi,Misch,Moritz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1181
+2017-05-28 08:59,EUCQ,MUC,158,D,4,4,Offense,Goal,Cafi,Misch,,,Connor,Dave,Cafi,Misch,Moritz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1185
+2017-05-28 08:59,EUCQ,MUC,6,D,4,5,Defense,Pull,,,Kitchen,,Dave,Brandon,Aze,Franz,Rene,Chris,Kitchen,,,,,,,,,,,,,,,,,,,,,,1285
+2017-05-28 08:59,EUCQ,MUC,6,D,4,5,Defense,Goal,,,Anonymous,,Dave,Brandon,Aze,Franz,Rene,Chris,Kitchen,,,,,,,,,,,,,,,,,,,,,,1289
+2017-05-28 08:59,EUCQ,MUC,35,O,5,5,Offense,Catch,Matze,Flex,,,Flex,Flo,Alan,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,1408
+2017-05-28 08:59,EUCQ,MUC,35,O,5,5,Offense,Catch,Flex,Matze,,,Flex,Flo,Alan,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,1417
+2017-05-28 08:59,EUCQ,MUC,35,O,5,5,Offense,Catch,Matze,Flo,,,Flex,Flo,Alan,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,1421
+2017-05-28 08:59,EUCQ,MUC,35,O,5,5,Offense,Catch,Flo,Chris,,,Flex,Flo,Alan,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,1425
+2017-05-28 08:59,EUCQ,MUC,35,O,5,5,Offense,Catch,Chris,Flo,,,Flex,Flo,Alan,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,1429
+2017-05-28 08:59,EUCQ,MUC,35,O,5,5,Offense,Catch,Flo,Alan,,,Flex,Flo,Alan,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,1433
+2017-05-28 08:59,EUCQ,MUC,35,O,5,5,Offense,Catch,Alan,Hans,,,Flex,Flo,Alan,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,1437
+2017-05-28 08:59,EUCQ,MUC,35,O,5,5,Offense,Goal,Hans,Flex,,,Flex,Flo,Alan,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,1441
+2017-05-28 08:59,EUCQ,MUC,6,D,5,6,Defense,Pull,,,Walder,4.544,Cafi,Brandon,Mou K.,Misch,Franz,Moritz,Walder,,,,,,,,,,,,,,,,,,,,,,1541
+2017-05-28 08:59,EUCQ,MUC,6,D,5,6,Defense,Goal,,,Anonymous,,Cafi,Brandon,Mou K.,Misch,Franz,Moritz,Walder,,,,,,,,,,,,,,,,,,,,,,1545
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Hans,Flo,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1664
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Flo,Matze,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1673
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Matze,Hans,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1677
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Hans,Aze,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1681
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Aze,Hans,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1685
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Hans,Matze,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1689
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Matze,Hans,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1693
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Hans,Flo,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1697
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Flo,Hans,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1701
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Hans,Flo,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1705
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Flo,Hans,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1709
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Hans,Aze,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1797
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Aze,Hans,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1801
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Hans,Aze,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1805
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Throwaway,Aze,Anonymous,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1809
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Defense,Throwaway,,,Anonymous,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1925
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Matze,Flo,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2053
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Flo,Flex,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2057
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Flex,Hans,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2061
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Hans,Aze,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2065
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Aze,Flo,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2069
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Catch,Flo,Hans,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2073
+2017-05-28 08:59,EUCQ,MUC,415,O,6,6,Offense,Goal,Hans,Flo,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2077
+2017-05-28 08:59,EUCQ,MUC,98,D,6,7,Defense,PullOb,,,Kitchen,,Dave,Brandon,Misch,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,2085
+2017-05-28 08:59,EUCQ,MUC,98,D,6,7,Defense,Goal,,,Anonymous,,Dave,Brandon,Misch,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,2181
+2017-05-28 08:59,EUCQ,MUC,55,O,7,7,Offense,Catch,Hans,Matze,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2304
+2017-05-28 08:59,EUCQ,MUC,55,O,7,7,Offense,Catch,Matze,Hans,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2313
+2017-05-28 08:59,EUCQ,MUC,55,O,7,7,Offense,Catch,Hans,Matze,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2317
+2017-05-28 08:59,EUCQ,MUC,55,O,7,7,Offense,Catch,Matze,Hans,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2321
+2017-05-28 08:59,EUCQ,MUC,55,O,7,7,Offense,Catch,Hans,Flo,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2325
+2017-05-28 08:59,EUCQ,MUC,55,O,7,7,Offense,Catch,Flo,Hans,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2329
+2017-05-28 08:59,EUCQ,MUC,55,O,7,7,Offense,Catch,Hans,Flex,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2333
+2017-05-28 08:59,EUCQ,MUC,55,O,7,7,Offense,Catch,Flex,Alan,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2337
+2017-05-28 08:59,EUCQ,MUC,55,O,7,7,Offense,Catch,Alan,Hans,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2341
+2017-05-28 08:59,EUCQ,MUC,55,O,7,7,Offense,Catch,Hans,Aze,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2345
+2017-05-28 08:59,EUCQ,MUC,55,O,7,7,Offense,Catch,Aze,Flo,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2349
+2017-05-28 08:59,EUCQ,MUC,55,O,7,7,Offense,Catch,Flo,Flex,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2353
+2017-05-28 08:59,EUCQ,MUC,55,O,7,7,Offense,Goal,Flex,Matze,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2357
+2017-05-28 08:59,EUCQ,MUC,174,D,8,7,Defense,Pull,,,Kitchen,,Flex,Flo,Aze,Franz,Rene,Chris,Kitchen,,,,,,,,,,,,,,,,,,,,,,2437
+2017-05-28 08:59,EUCQ,MUC,174,D,8,7,Defense,D,,,Aze,,Flex,Flo,Aze,Franz,Rene,Chris,Kitchen,,,,,,,,,,,,,,,,,,,,,,2565
+2017-05-28 08:59,EUCQ,MUC,174,D,8,7,Offense,Catch,Flo,Franz,,,Flex,Flo,Aze,Franz,Rene,Chris,Kitchen,,,,,,,,,,,,,,,,,,,,,,2569
+2017-05-28 08:59,EUCQ,MUC,174,D,8,7,Offense,Catch,Franz,Flex,,,Flex,Flo,Aze,Franz,Rene,Chris,Kitchen,,,,,,,,,,,,,,,,,,,,,,2573
+2017-05-28 08:59,EUCQ,MUC,174,D,8,7,Offense,Catch,Flex,Chris,,,Flex,Flo,Aze,Franz,Rene,Chris,Kitchen,,,,,,,,,,,,,,,,,,,,,,2577
+2017-05-28 08:59,EUCQ,MUC,174,D,8,7,Offense,Catch,Chris,Flo,,,Flex,Flo,Aze,Franz,Rene,Chris,Kitchen,,,,,,,,,,,,,,,,,,,,,,2581
+2017-05-28 08:59,EUCQ,MUC,174,D,8,7,Offense,Catch,Flo,Kitchen,,,Flex,Flo,Aze,Franz,Rene,Chris,Kitchen,,,,,,,,,,,,,,,,,,,,,,2585
+2017-05-28 08:59,EUCQ,MUC,174,D,8,7,Offense,Catch,Kitchen,Flo,,,Flex,Flo,Aze,Franz,Rene,Chris,Kitchen,,,,,,,,,,,,,,,,,,,,,,2589
+2017-05-28 08:59,EUCQ,MUC,174,D,8,7,Offense,Catch,Flo,Franz,,,Flex,Flo,Aze,Franz,Rene,Chris,Kitchen,,,,,,,,,,,,,,,,,,,,,,2593
+2017-05-28 08:59,EUCQ,MUC,174,D,8,7,Offense,Catch,Franz,Flo,,,Flex,Flo,Aze,Franz,Rene,Chris,Kitchen,,,,,,,,,,,,,,,,,,,,,,2597
+2017-05-28 08:59,EUCQ,MUC,174,D,8,7,Offense,Catch,Flo,Chris,,,Flex,Flo,Aze,Franz,Rene,Chris,Kitchen,,,,,,,,,,,,,,,,,,,,,,2601
+2017-05-28 08:59,EUCQ,MUC,174,D,8,7,Offense,Catch,Chris,Flo,,,Flex,Flo,Aze,Franz,Rene,Chris,Kitchen,,,,,,,,,,,,,,,,,,,,,,2605
+2017-05-28 08:59,EUCQ,MUC,174,D,8,7,Offense,Goal,Flo,Kitchen,,,Flex,Flo,Aze,Franz,Rene,Chris,Kitchen,,,,,,,,,,,,,,,,,,,,,,2609
+2017-05-28 08:59,EUCQ,MUC,6,D,8,8,Defense,Pull,,,Brandon,,Connor,Dave,Cafi,Brandon,Mou K.,Misch,Walder,,,,,,,,,,,,,,,,,,,,,,2693
+2017-05-28 08:59,EUCQ,MUC,6,D,8,8,Defense,Goal,,,Anonymous,,Connor,Dave,Cafi,Brandon,Mou K.,Misch,Walder,,,,,,,,,,,,,,,,,,,,,,2697
+2017-05-28 08:59,EUCQ,MUC,23,O,9,8,Offense,Catch,Alan,Aze,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2816
+2017-05-28 08:59,EUCQ,MUC,23,O,9,8,Offense,Catch,Aze,Alan,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2825
+2017-05-28 08:59,EUCQ,MUC,23,O,9,8,Offense,Catch,Alan,Matze,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2829
+2017-05-28 08:59,EUCQ,MUC,23,O,9,8,Offense,Catch,Matze,Hans,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2833
+2017-05-28 08:59,EUCQ,MUC,23,O,9,8,Offense,Goal,Hans,Chris,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2837
+2017-05-28 08:59,EUCQ,MUC,114,D,9,9,Defense,Pull,,,Kitchen,,Connor,Cafi,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,2841
+2017-05-28 08:59,EUCQ,MUC,114,D,9,9,Defense,Goal,,,Anonymous,,Connor,Cafi,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,2953
+2017-05-28 08:59,EUCQ,MUC,27,O,10,9,Offense,Catch,Matze,Hans,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3072
+2017-05-28 08:59,EUCQ,MUC,27,O,10,9,Offense,Catch,Hans,Flex,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3081
+2017-05-28 08:59,EUCQ,MUC,27,O,10,9,Offense,Throwaway,Flex,Anonymous,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3085
+2017-05-28 08:59,EUCQ,MUC,27,O,10,9,Defense,Throwaway,,,Anonymous,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3093
+2017-05-28 08:59,EUCQ,MUC,27,O,10,9,Offense,Goal,Hans,Flo,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3097
+2017-05-28 08:59,EUCQ,MUC,6,D,10,10,Defense,Pull,,,Kitchen,,Dave,Brandon,Mou K.,Misch,Franz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,3205
+2017-05-28 08:59,EUCQ,MUC,6,D,10,10,Defense,Goal,,,Anonymous,,Dave,Brandon,Mou K.,Misch,Franz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,3209
+2017-05-28 08:59,EUCQ,MUC,143,O,11,10,Offense,Catch,Hans,Matze,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3208
+2017-05-28 08:59,EUCQ,MUC,143,O,11,10,Offense,Catch,Matze,Aze,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3217
+2017-05-28 08:59,EUCQ,MUC,143,O,11,10,Offense,Catch,Aze,Flex,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3221
+2017-05-28 08:59,EUCQ,MUC,143,O,11,10,Offense,Catch,Flex,Aze,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3225
+2017-05-28 08:59,EUCQ,MUC,143,O,11,10,Offense,Catch,Aze,Flo,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3333
+2017-05-28 08:59,EUCQ,MUC,143,O,11,10,Offense,Catch,Flo,Chris,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3337
+2017-05-28 08:59,EUCQ,MUC,143,O,11,10,Offense,Catch,Chris,Flo,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3341
+2017-05-28 08:59,EUCQ,MUC,143,O,11,10,Offense,Catch,Flo,Hans,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3345
+2017-05-28 08:59,EUCQ,MUC,143,O,11,10,Offense,Goal,Hans,Aze,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3349
+2017-05-28 08:59,EUCQ,MUC,118,D,12,10,Defense,Pull,,,Kitchen,,Connor,Dave,Cafi,Brandon,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,3353
+2017-05-28 08:59,EUCQ,MUC,118,D,12,10,Defense,D,,,Moritz,,Connor,Dave,Cafi,Brandon,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,3461
+2017-05-28 08:59,EUCQ,MUC,118,D,12,10,Offense,Catch,Moritz,Dave,,,Connor,Dave,Cafi,Brandon,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,3465
+2017-05-28 08:59,EUCQ,MUC,118,D,12,10,Offense,Goal,Dave,Cafi,,,Connor,Dave,Cafi,Brandon,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,3469
+2017-05-28 08:59,EUCQ,MUC,118,D,12,11,Defense,Pull,,,Kitchen,6.051,Connor,Brandon,Mou K.,Misch,Franz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,3473
+2017-05-28 08:59,EUCQ,MUC,118,D,12,11,Defense,Goal,,,Anonymous,,Connor,Brandon,Mou K.,Misch,Franz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,3589
+2017-05-28 08:59,EUCQ,MUC,515,O,12,12,Offense,Catch,Hans,Matze,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3588
+2017-05-28 08:59,EUCQ,MUC,515,O,12,12,Offense,Catch,Matze,Flo,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3597
+2017-05-28 08:59,EUCQ,MUC,515,O,12,12,Offense,Catch,Flo,Chris,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3601
+2017-05-28 08:59,EUCQ,MUC,515,O,12,12,Offense,Throwaway,Chris,Anonymous,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3605
+2017-05-28 08:59,EUCQ,MUC,515,O,12,12,Defense,D,,,Flex,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3717
+2017-05-28 08:59,EUCQ,MUC,515,O,12,12,Offense,Catch,Flex,Matze,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3721
+2017-05-28 08:59,EUCQ,MUC,515,O,12,12,Offense,Catch,Matze,Hans,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3725
+2017-05-28 08:59,EUCQ,MUC,515,O,12,12,Offense,Catch,Hans,Flo,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3729
+2017-05-28 08:59,EUCQ,MUC,515,O,12,12,Offense,Catch,Flo,Flex,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3973
+2017-05-28 08:59,EUCQ,MUC,515,O,12,12,Offense,Catch,Flex,Flo,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3977
+2017-05-28 08:59,EUCQ,MUC,515,O,12,12,Offense,Catch,Flo,Chris,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3981
+2017-05-28 08:59,EUCQ,MUC,515,O,12,12,Offense,Catch,Chris,Flo,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3985
+2017-05-28 08:59,EUCQ,MUC,515,O,12,12,Offense,Catch,Flo,Chris,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3989
+2017-05-28 08:59,EUCQ,MUC,515,O,12,12,Offense,Catch,Chris,Hans,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3993
+2017-05-28 08:59,EUCQ,MUC,515,O,12,12,Offense,Throwaway,Hans,Anonymous,,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3997
+2017-05-28 08:59,EUCQ,MUC,515,O,12,12,Defense,Goal,,,Anonymous,,Flex,Flo,Alan,Aze,Hans,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,4101
+2017-05-28 08:59,EUCQ,MUC,43,O,13,12,Offense,Catch,Franz,Hans,,,Flex,Flo,Aze,Hans,Franz,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,4224
+2017-05-28 08:59,EUCQ,MUC,43,O,13,12,Offense,Catch,Hans,Flo,,,Flex,Flo,Aze,Hans,Franz,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,4233
+2017-05-28 08:59,EUCQ,MUC,43,O,13,12,Offense,Catch,Flo,Chris,,,Flex,Flo,Aze,Hans,Franz,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,4237
+2017-05-28 08:59,EUCQ,MUC,43,O,13,12,Offense,Catch,Chris,Hans,,,Flex,Flo,Aze,Hans,Franz,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,4241
+2017-05-28 08:59,EUCQ,MUC,43,O,13,12,Offense,Catch,Hans,Aze,,,Flex,Flo,Aze,Hans,Franz,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,4245
+2017-05-28 08:59,EUCQ,MUC,43,O,13,12,Offense,Catch,Aze,Matze,,,Flex,Flo,Aze,Hans,Franz,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,4249
+2017-05-28 08:59,EUCQ,MUC,43,O,13,12,Offense,Catch,Matze,Hans,,,Flex,Flo,Aze,Hans,Franz,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,4253
+2017-05-28 08:59,EUCQ,MUC,43,O,13,12,Offense,Catch,Hans,Matze,,,Flex,Flo,Aze,Hans,Franz,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,4257
+2017-05-28 08:59,EUCQ,MUC,43,O,13,12,Offense,Catch,Matze,Flo,,,Flex,Flo,Aze,Hans,Franz,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,4261
+2017-05-28 08:59,EUCQ,MUC,43,O,13,12,Offense,Goal,Flo,Aze,,,Flex,Flo,Aze,Hans,Franz,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,4265
+2017-05-27 11:48,EUCQ,FrankN,47,O,1,0,Offense,Catch,Alan,Matze,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,0
+2017-05-27 11:48,EUCQ,FrankN,47,O,1,0,Offense,Catch,Matze,Hans,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,9
+2017-05-27 11:48,EUCQ,FrankN,47,O,1,0,Offense,Catch,Hans,Aze,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,13
+2017-05-27 11:48,EUCQ,FrankN,47,O,1,0,Offense,Catch,Aze,Hans,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,17
+2017-05-27 11:48,EUCQ,FrankN,47,O,1,0,Offense,Catch,Hans,Flo,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,21
+2017-05-27 11:48,EUCQ,FrankN,47,O,1,0,Offense,Catch,Flo,Hans,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,25
+2017-05-27 11:48,EUCQ,FrankN,47,O,1,0,Offense,Catch,Hans,Aze,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,29
+2017-05-27 11:48,EUCQ,FrankN,47,O,1,0,Offense,Catch,Aze,Flo,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,33
+2017-05-27 11:48,EUCQ,FrankN,47,O,1,0,Offense,Catch,Flo,Hans,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,37
+2017-05-27 11:48,EUCQ,FrankN,47,O,1,0,Offense,Catch,Hans,Matze,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,41
+2017-05-27 11:48,EUCQ,FrankN,47,O,1,0,Offense,Goal,Matze,Rainer,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,45
+2017-05-27 11:48,EUCQ,FrankN,138,D,1,1,Defense,Pull,,,Kitchen,5.773,Connor,Cafi,Brandon,Misch,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,133
+2017-05-27 11:48,EUCQ,FrankN,138,D,1,1,Defense,Throwaway,,,Anonymous,,Connor,Cafi,Brandon,Misch,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,137
+2017-05-27 11:48,EUCQ,FrankN,138,D,1,1,Offense,Catch,Connor,Franz,,,Connor,Cafi,Brandon,Misch,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,141
+2017-05-27 11:48,EUCQ,FrankN,138,D,1,1,Offense,Catch,Franz,Misch,,,Connor,Cafi,Brandon,Misch,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,145
+2017-05-27 11:48,EUCQ,FrankN,138,D,1,1,Offense,Catch,Misch,Connor,,,Connor,Cafi,Brandon,Misch,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,149
+2017-05-27 11:48,EUCQ,FrankN,138,D,1,1,Offense,Throwaway,Connor,Anonymous,,,Connor,Cafi,Brandon,Misch,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,153
+2017-05-27 11:48,EUCQ,FrankN,138,D,1,1,Defense,D,,,Cafi,,Connor,Cafi,Brandon,Misch,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,261
+2017-05-27 11:48,EUCQ,FrankN,138,D,1,1,Offense,Drop,Connor,Misch,,,Connor,Cafi,Brandon,Misch,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,265
+2017-05-27 11:48,EUCQ,FrankN,138,D,1,1,Defense,Goal,,,Anonymous,,Connor,Cafi,Brandon,Misch,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,269
+2017-05-27 11:48,EUCQ,FrankN,123,O,2,1,Offense,Catch,Hans,Mike,,,Flo,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,268
+2017-05-27 11:48,EUCQ,FrankN,123,O,2,1,Offense,Catch,Mike,Aze,,,Flo,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,277
+2017-05-27 11:48,EUCQ,FrankN,123,O,2,1,Offense,Goal,Aze,Matze,,,Flo,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,389
+2017-05-27 11:48,EUCQ,FrankN,6,D,2,2,Defense,Pull,,,Kitchen,6.003,Davide,Dave,Mou K.,Brandon,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,393
+2017-05-27 11:48,EUCQ,FrankN,6,D,2,2,Defense,Goal,,,Anonymous,,Davide,Dave,Mou K.,Brandon,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,397
+2017-05-27 11:48,EUCQ,FrankN,135,O,3,2,Offense,Catch,Hans,Chris,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,512
+2017-05-27 11:48,EUCQ,FrankN,135,O,3,2,Offense,Throwaway,Chris,Anonymous,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,521
+2017-05-27 11:48,EUCQ,FrankN,135,O,3,2,Defense,Throwaway,,,Anonymous,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,533
+2017-05-27 11:48,EUCQ,FrankN,135,O,3,2,Offense,Goal,Aze,Matze,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,645
+2017-05-27 11:48,EUCQ,FrankN,126,D,3,3,Defense,Pull,,,Kitchen,4.363,Dave,Cafi,Brandon,Misch,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,649
+2017-05-27 11:48,EUCQ,FrankN,126,D,3,3,Defense,Goal,,,Anonymous,,Dave,Cafi,Brandon,Misch,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,773
+2017-05-27 11:48,EUCQ,FrankN,139,O,3,4,Offense,Drop,Flo,Rainer,,,Flo,Alan,Aze,Hans,Rainer,Mike,Chris,,,,,,,,,,,,,,,,,,,,,,896
+2017-05-27 11:48,EUCQ,FrankN,139,O,3,4,Defense,Throwaway,,,Anonymous,,Flo,Alan,Aze,Hans,Rainer,Mike,Chris,,,,,,,,,,,,,,,,,,,,,,909
+2017-05-27 11:48,EUCQ,FrankN,139,O,3,4,Offense,Throwaway,Aze,Anonymous,,,Flo,Alan,Aze,Hans,Rainer,Mike,Chris,,,,,,,,,,,,,,,,,,,,,,1029
+2017-05-27 11:48,EUCQ,FrankN,139,O,3,4,Defense,Goal,,,Anonymous,,Flo,Alan,Aze,Hans,Rainer,Mike,Chris,,,,,,,,,,,,,,,,,,,,,,1033
+2017-05-27 11:48,EUCQ,FrankN,11,O,3,5,Offense,Drop,Matze,Chris,,,Flo,Alan,Hans,Rainer,Chris,Matze,Kitchen,,,,,,,,,,,,,,,,,,,,,,1152
+2017-05-27 11:48,EUCQ,FrankN,11,O,3,5,Defense,Goal,,,Anonymous,,Flo,Alan,Hans,Rainer,Chris,Matze,Kitchen,,,,,,,,,,,,,,,,,,,,,,1161
+2017-05-27 11:48,EUCQ,FrankN,7,O,4,5,Offense,Goal,Flo,Franz,,,Dave,Flo,Aze,Hans,Franz,Mike,Matze,,,,,,,,,,,,,,,,,,,,,,1280
+2017-05-27 11:48,EUCQ,FrankN,130,D,4,6,Defense,Pull,,,Kitchen,6.52,Davide,Connor,Cafi,Brandon,Misch,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1413
+2017-05-27 11:48,EUCQ,FrankN,130,D,4,6,Defense,Throwaway,,,Anonymous,,Davide,Connor,Cafi,Brandon,Misch,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1417
+2017-05-27 11:48,EUCQ,FrankN,130,D,4,6,Offense,Throwaway,Cafi,Anonymous,,,Davide,Connor,Cafi,Brandon,Misch,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1421
+2017-05-27 11:48,EUCQ,FrankN,130,D,4,6,Defense,Goal,,,Anonymous,,Davide,Connor,Cafi,Brandon,Misch,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1541
+2017-05-27 11:48,EUCQ,FrankN,15,O,5,6,Offense,Throwaway,Aze,Anonymous,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,1664
+2017-05-27 11:48,EUCQ,FrankN,15,O,5,6,Defense,D,,,Flo,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,1673
+2017-05-27 11:48,EUCQ,FrankN,15,O,5,6,Offense,Goal,Hans,Flo,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,1677
+2017-05-27 11:48,EUCQ,FrankN,10,D,6,6,Defense,Pull,,,Kitchen,0.772,Dave,Mou K.,Brandon,Misch,Franz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1797
+2017-05-27 11:48,EUCQ,FrankN,10,D,6,6,Defense,Throwaway,,,Anonymous,,Dave,Mou K.,Brandon,Misch,Franz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1801
+2017-05-27 11:48,EUCQ,FrankN,10,D,6,6,Offense,Goal,Franz,Kitchen,,,Dave,Mou K.,Brandon,Misch,Franz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1805
+2017-05-27 11:48,EUCQ,FrankN,10,D,7,6,Defense,PullOb,,,Kitchen,,Connor,Cafi,Brandon,Misch,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1925
+2017-05-27 11:48,EUCQ,FrankN,10,D,7,6,Defense,D,,,Brandon,,Connor,Cafi,Brandon,Misch,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1929
+2017-05-27 11:48,EUCQ,FrankN,10,D,7,6,Offense,Goal,Connor,Kitchen,,,Connor,Cafi,Brandon,Misch,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1933
+2017-05-27 11:48,EUCQ,FrankN,6,D,7,7,Defense,Pull,,,Kitchen,4.512,Davide,Dave,Connor,Mou K.,Brandon,Franz,Kitchen,,,,,,,,,,,,,,,,,,,,,,2053
+2017-05-27 11:48,EUCQ,FrankN,6,D,7,7,Defense,Goal,,,Anonymous,,Davide,Dave,Connor,Mou K.,Brandon,Franz,Kitchen,,,,,,,,,,,,,,,,,,,,,,2057
+2017-05-27 11:48,EUCQ,FrankN,7,O,8,7,Offense,Goal,Flo,Aze,,,Flo,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2180
+2017-05-27 11:48,EUCQ,FrankN,6,D,8,8,Defense,Pull,,,Moritz,0.858,Dave,Cafi,Brandon,Misch,Franz,Walder,Moritz,,,,,,,,,,,,,,,,,,,,,,2309
+2017-05-27 11:48,EUCQ,FrankN,6,D,8,8,Defense,Goal,,,Anonymous,,Dave,Cafi,Brandon,Misch,Franz,Walder,Moritz,,,,,,,,,,,,,,,,,,,,,,2313
+2017-05-27 11:48,EUCQ,FrankN,7,O,9,8,Offense,Goal,Hans,Rainer,,,Flo,Alan,Hans,Aze,Mike,Rainer,Matze,,,,,,,,,,,,,,,,,,,,,,2432
+2017-05-27 11:48,EUCQ,FrankN,6,D,9,9,Defense,Pull,,,Kitchen,4.984,Davide,Connor,Mou K.,Brandon,Misch,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,2565
+2017-05-27 11:48,EUCQ,FrankN,6,D,9,9,Defense,Goal,,,Anonymous,,Davide,Connor,Mou K.,Brandon,Misch,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,2569
+2017-05-27 11:48,EUCQ,FrankN,775,O,10,9,Offense,Throwaway,Matze,Anonymous,,,Flo,Aze,Hans,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2688
+2017-05-27 11:48,EUCQ,FrankN,775,O,10,9,Defense,Throwaway,,,Anonymous,,Flo,Aze,Hans,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2697
+2017-05-27 11:48,EUCQ,FrankN,775,O,10,9,Offense,Throwaway,Flo,Anonymous,,,Flo,Aze,Hans,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2701
+2017-05-27 11:48,EUCQ,FrankN,775,O,10,9,Defense,Throwaway,,,Anonymous,,Flo,Aze,Hans,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2949
+2017-05-27 11:48,EUCQ,FrankN,775,O,10,9,Offense,Throwaway,Aze,Anonymous,,,Flo,Aze,Hans,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2953
+2017-05-27 11:48,EUCQ,FrankN,775,O,10,9,Defense,Throwaway,,,Anonymous,,Flo,Aze,Hans,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2957
+2017-05-27 11:48,EUCQ,FrankN,775,O,10,9,Offense,Throwaway,Chris,Anonymous,,,Flo,Aze,Hans,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3077
+2017-05-27 11:48,EUCQ,FrankN,775,O,10,9,Defense,Throwaway,,,Anonymous,,Flo,Aze,Hans,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3081
+2017-05-27 11:48,EUCQ,FrankN,775,O,10,9,Offense,Throwaway,Hans,Anonymous,,,Flo,Aze,Hans,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3333
+2017-05-27 11:48,EUCQ,FrankN,775,O,10,9,Defense,D,,,Aze,,Flo,Aze,Hans,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3337
+2017-05-27 11:48,EUCQ,FrankN,775,O,10,9,Offense,Goal,Hans,Aze,,,Flo,Aze,Hans,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3461
+2017-05-27 11:48,EUCQ,FrankN,250,D,10,10,Defense,PullOb,,,Kitchen,,Davide,Connor,Brandon,Misch,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,3469
+2017-05-27 11:48,EUCQ,FrankN,250,D,10,10,Defense,Throwaway,,,Anonymous,,Davide,Connor,Brandon,Misch,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,3473
+2017-05-27 11:48,EUCQ,FrankN,250,D,10,10,Offense,Throwaway,Franz,Anonymous,,,Davide,Connor,Brandon,Misch,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,3589
+2017-05-27 11:48,EUCQ,FrankN,250,D,10,10,Defense,Goal,,,Anonymous,,Davide,Connor,Brandon,Misch,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,3717
+2017-05-27 11:48,EUCQ,FrankN,7,O,11,10,Offense,Goal,Chris,Rainer,,,Dave,Flo,Alan,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3840
+2017-05-27 11:48,EUCQ,FrankN,254,D,11,11,Defense,PullOb,,,Kitchen,,Cafi,Mou K.,Brandon,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,3849
+2017-05-27 11:48,EUCQ,FrankN,254,D,11,11,Defense,Goal,,,Anonymous,,Cafi,Mou K.,Brandon,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,4101
+2017-05-27 11:48,EUCQ,FrankN,7,O,12,11,Offense,Goal,Flo,Rainer,,,Flo,Hans,Aze,Rainer,Chris,Matze,Kitchen,,,,,,,,,,,,,,,,,,,,,,4100
+2017-05-28 14:05,EUCQ,Bad Raps,35,O,1,0,Offense,Catch,Mike,Matze,,,Flo,Alan,Aze,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,0
+2017-05-28 14:05,EUCQ,Bad Raps,35,O,1,0,Offense,Catch,Matze,Aze,,,Flo,Alan,Aze,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,9
+2017-05-28 14:05,EUCQ,Bad Raps,35,O,1,0,Offense,Catch,Aze,Matze,,,Flo,Alan,Aze,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,13
+2017-05-28 14:05,EUCQ,Bad Raps,35,O,1,0,Offense,Catch,Matze,Mike,,,Flo,Alan,Aze,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,17
+2017-05-28 14:05,EUCQ,Bad Raps,35,O,1,0,Offense,Catch,Mike,Matze,,,Flo,Alan,Aze,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,21
+2017-05-28 14:05,EUCQ,Bad Raps,35,O,1,0,Offense,Catch,Matze,Flo,,,Flo,Alan,Aze,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,25
+2017-05-28 14:05,EUCQ,Bad Raps,35,O,1,0,Offense,Catch,Flo,Hans,,,Flo,Alan,Aze,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,29
+2017-05-28 14:05,EUCQ,Bad Raps,35,O,1,0,Offense,Goal,Hans,Mike,,,Flo,Alan,Aze,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,33
+2017-05-28 14:05,EUCQ,Bad Raps,142,D,1,1,Defense,Pull,,,Kitchen,,Connor,Brandon,Misch,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,37
+2017-05-28 14:05,EUCQ,Bad Raps,142,D,1,1,Defense,Throwaway,,,Anonymous,,Connor,Brandon,Misch,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,133
+2017-05-28 14:05,EUCQ,Bad Raps,142,D,1,1,Offense,Catch,Franz,Connor,,,Connor,Brandon,Misch,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,137
+2017-05-28 14:05,EUCQ,Bad Raps,142,D,1,1,Offense,Catch,Connor,Kitchen,,,Connor,Brandon,Misch,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,141
+2017-05-28 14:05,EUCQ,Bad Raps,142,D,1,1,Offense,Catch,Kitchen,Brandon,,,Connor,Brandon,Misch,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,145
+2017-05-28 14:05,EUCQ,Bad Raps,142,D,1,1,Offense,Catch,Brandon,Connor,,,Connor,Brandon,Misch,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,149
+2017-05-28 14:05,EUCQ,Bad Raps,142,D,1,1,Offense,Catch,Connor,Franz,,,Connor,Brandon,Misch,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,153
+2017-05-28 14:05,EUCQ,Bad Raps,142,D,1,1,Offense,Catch,Franz,Brandon,,,Connor,Brandon,Misch,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,157
+2017-05-28 14:05,EUCQ,Bad Raps,142,D,1,1,Offense,Catch,Brandon,Franz,,,Connor,Brandon,Misch,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,161
+2017-05-28 14:05,EUCQ,Bad Raps,142,D,1,1,Offense,Catch,Franz,Connor,,,Connor,Brandon,Misch,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,165
+2017-05-28 14:05,EUCQ,Bad Raps,142,D,1,1,Offense,Catch,Connor,Brandon,,,Connor,Brandon,Misch,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,169
+2017-05-28 14:05,EUCQ,Bad Raps,142,D,1,1,Offense,Drop,Brandon,Misch,,,Connor,Brandon,Misch,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,173
+2017-05-28 14:05,EUCQ,Bad Raps,142,D,1,1,Defense,Goal,,,Anonymous,,Connor,Brandon,Misch,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,177
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,2,1,Offense,Catch,Mike,Matze,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,256
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,2,1,Offense,Catch,Matze,Aze,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,265
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,2,1,Offense,Catch,Aze,Matze,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,269
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,2,1,Offense,Catch,Matze,Flo,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,273
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,2,1,Offense,Catch,Flo,Alan,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,277
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,2,1,Offense,Throwaway,Alan,Anonymous,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,281
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,2,1,Defense,Throwaway,,,Anonymous,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,285
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,2,1,Offense,Catch,Matze,Flo,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,289
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,2,1,Offense,Catch,Flo,Aze,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,293
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,2,1,Offense,Catch,Aze,Flo,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,297
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,2,1,Offense,Catch,Flo,Chris,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,301
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,2,1,Offense,Throwaway,Chris,Anonymous,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,305
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,2,1,Defense,D,,,Alan,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,389
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,2,1,Offense,Catch,Mike,Matze,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,393
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,2,1,Offense,Catch,Matze,Aze,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,397
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,2,1,Offense,Goal,Aze,Flo,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,401
+2017-05-28 14:05,EUCQ,Bad Raps,6,D,2,2,Defense,Pull,,,Kitchen,1.55,Dave,Connor,Mou K.,Brandon,Misch,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,405
+2017-05-28 14:05,EUCQ,Bad Raps,6,D,2,2,Defense,Goal,,,Anonymous,,Dave,Connor,Mou K.,Brandon,Misch,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,409
+2017-05-28 14:05,EUCQ,Bad Raps,19,O,3,2,Offense,Catch,Hans,Flo,,,Flex,Flo,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,512
+2017-05-28 14:05,EUCQ,Bad Raps,19,O,3,2,Offense,Catch,Flo,Chris,,,Flex,Flo,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,521
+2017-05-28 14:05,EUCQ,Bad Raps,19,O,3,2,Offense,Catch,Chris,Hans,,,Flex,Flo,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,525
+2017-05-28 14:05,EUCQ,Bad Raps,19,O,3,2,Offense,Goal,Hans,Flex,,,Flex,Flo,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,529
+2017-05-28 14:05,EUCQ,Bad Raps,6,D,3,3,Defense,Pull,,,Kitchen,7.981,Connor,Brandon,Franz,Rene,Moritz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,645
+2017-05-28 14:05,EUCQ,Bad Raps,6,D,3,3,Defense,Goal,,,Anonymous,,Connor,Brandon,Franz,Rene,Moritz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,649
+2017-05-28 14:05,EUCQ,Bad Raps,47,O,4,3,Offense,Catch,Matze,Aze,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,768
+2017-05-28 14:05,EUCQ,Bad Raps,47,O,4,3,Offense,Catch,Aze,Matze,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,777
+2017-05-28 14:05,EUCQ,Bad Raps,47,O,4,3,Offense,Catch,Matze,Mike,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,781
+2017-05-28 14:05,EUCQ,Bad Raps,47,O,4,3,Offense,Catch,Mike,Matze,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,785
+2017-05-28 14:05,EUCQ,Bad Raps,47,O,4,3,Offense,Catch,Matze,Aze,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,789
+2017-05-28 14:05,EUCQ,Bad Raps,47,O,4,3,Offense,Catch,Aze,Matze,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,793
+2017-05-28 14:05,EUCQ,Bad Raps,47,O,4,3,Offense,Catch,Matze,Flo,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,797
+2017-05-28 14:05,EUCQ,Bad Raps,47,O,4,3,Offense,Catch,Flo,Alan,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,801
+2017-05-28 14:05,EUCQ,Bad Raps,47,O,4,3,Offense,Catch,Alan,Mike,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,805
+2017-05-28 14:05,EUCQ,Bad Raps,47,O,4,3,Offense,Catch,Mike,Flo,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,809
+2017-05-28 14:05,EUCQ,Bad Raps,47,O,4,3,Offense,Goal,Flo,Chris,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,813
+2017-05-28 14:05,EUCQ,Bad Raps,6,D,4,4,Defense,Pull,,,Kitchen,,Connor,Dave,Cafi,Brandon,Mou K.,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,901
+2017-05-28 14:05,EUCQ,Bad Raps,6,D,4,4,Defense,Goal,,,Anonymous,,Connor,Dave,Cafi,Brandon,Mou K.,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,905
+2017-05-28 14:05,EUCQ,Bad Raps,27,O,5,4,Offense,Catch,Flo,Matze,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1024
+2017-05-28 14:05,EUCQ,Bad Raps,27,O,5,4,Offense,Catch,Matze,Mike,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1033
+2017-05-28 14:05,EUCQ,Bad Raps,27,O,5,4,Offense,Catch,Mike,Matze,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1037
+2017-05-28 14:05,EUCQ,Bad Raps,27,O,5,4,Offense,Catch,Matze,Alan,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1041
+2017-05-28 14:05,EUCQ,Bad Raps,27,O,5,4,Offense,Catch,Alan,Aze,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1045
+2017-05-28 14:05,EUCQ,Bad Raps,27,O,5,4,Offense,Goal,Aze,Flex,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1049
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Defense,Pull,,,Kitchen,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1157
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Defense,D,,,Dave,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1161
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Offense,Catch,Dave,Franz,,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1165
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Offense,Catch,Franz,Misch,,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1169
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Offense,Catch,Misch,Rene,,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1173
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Offense,Catch,Rene,Franz,,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1177
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Offense,Catch,Franz,Moritz,,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1181
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Offense,Throwaway,Moritz,Anonymous,,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1185
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Defense,D,,,Misch,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1189
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Offense,Catch,Franz,Misch,,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1193
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Offense,Catch,Misch,Connor,,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1197
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Offense,Catch,Connor,Kitchen,,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1201
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Offense,Catch,Kitchen,Connor,,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1205
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Offense,Catch,Connor,Kitchen,,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1285
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Offense,Catch,Kitchen,Rene,,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1289
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Offense,Catch,Rene,Connor,,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1293
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Offense,Throwaway,Connor,Anonymous,,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1301
+2017-05-28 14:05,EUCQ,Bad Raps,150,D,5,5,Defense,Goal,,,Anonymous,,Connor,Dave,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1305
+2017-05-28 14:05,EUCQ,Bad Raps,111,O,6,5,Offense,Catch,Matze,Flex,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1304
+2017-05-28 14:05,EUCQ,Bad Raps,111,O,6,5,Offense,Goal,Flex,Alan,,,Flex,Flo,Alan,Hans,Aze,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1413
+2017-05-28 14:05,EUCQ,Bad Raps,6,D,6,6,Defense,Pull,,,Kitchen,,Dave,Cafi,Brandon,Mou K.,Franz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1417
+2017-05-28 14:05,EUCQ,Bad Raps,6,D,6,6,Defense,Goal,,,Anonymous,,Dave,Cafi,Brandon,Mou K.,Franz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1421
+2017-05-28 14:05,EUCQ,Bad Raps,43,O,7,6,Offense,Catch,Mike,Matze,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1536
+2017-05-28 14:05,EUCQ,Bad Raps,43,O,7,6,Offense,Catch,Matze,Aze,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1545
+2017-05-28 14:05,EUCQ,Bad Raps,43,O,7,6,Offense,Catch,Aze,Chris,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1549
+2017-05-28 14:05,EUCQ,Bad Raps,43,O,7,6,Offense,Catch,Chris,Aze,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1553
+2017-05-28 14:05,EUCQ,Bad Raps,43,O,7,6,Offense,Catch,Aze,Flo,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1557
+2017-05-28 14:05,EUCQ,Bad Raps,43,O,7,6,Offense,Catch,Flo,Chris,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1561
+2017-05-28 14:05,EUCQ,Bad Raps,43,O,7,6,Offense,Catch,Chris,Flo,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1565
+2017-05-28 14:05,EUCQ,Bad Raps,43,O,7,6,Offense,Catch,Flo,Alan,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1569
+2017-05-28 14:05,EUCQ,Bad Raps,43,O,7,6,Offense,Catch,Alan,Mike,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1573
+2017-05-28 14:05,EUCQ,Bad Raps,43,O,7,6,Offense,Goal,Mike,Matze,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1577
+2017-05-28 14:05,EUCQ,Bad Raps,258,D,7,7,Defense,Pull,,,Kitchen,5.946,Connor,Cafi,Brandon,Misch,Moritz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1669
+2017-05-28 14:05,EUCQ,Bad Raps,258,D,7,7,Defense,Goal,,,Anonymous,,Connor,Cafi,Brandon,Misch,Moritz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1925
+2017-05-28 14:05,EUCQ,Bad Raps,135,O,8,7,Offense,Catch,Hans,Matze,,,Flex,Flo,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1924
+2017-05-28 14:05,EUCQ,Bad Raps,135,O,8,7,Offense,Catch,Matze,Flo,,,Flex,Flo,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1933
+2017-05-28 14:05,EUCQ,Bad Raps,135,O,8,7,Offense,Catch,Flo,Chris,,,Flex,Flo,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1937
+2017-05-28 14:05,EUCQ,Bad Raps,135,O,8,7,Offense,Catch,Chris,Flex,,,Flex,Flo,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1941
+2017-05-28 14:05,EUCQ,Bad Raps,135,O,8,7,Offense,Throwaway,Flex,Anonymous,,,Flex,Flo,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1945
+2017-05-28 14:05,EUCQ,Bad Raps,135,O,8,7,Defense,Throwaway,,,Anonymous,,Flex,Flo,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1949
+2017-05-28 14:05,EUCQ,Bad Raps,135,O,8,7,Offense,Catch,Hans,Flo,,,Flex,Flo,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1953
+2017-05-28 14:05,EUCQ,Bad Raps,135,O,8,7,Offense,Catch,Flo,Mike,,,Flex,Flo,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2053
+2017-05-28 14:05,EUCQ,Bad Raps,135,O,8,7,Offense,Goal,Mike,Chris,,,Flex,Flo,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2057
+2017-05-28 14:05,EUCQ,Bad Raps,6,D,8,8,Defense,Pull,,,Kitchen,7.064,Connor,Dave,Mou K.,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,2181
+2017-05-28 14:05,EUCQ,Bad Raps,6,D,8,8,Defense,Goal,,,Anonymous,,Connor,Dave,Mou K.,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,2185
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,9,8,Offense,Catch,Hans,Matze,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2184
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,9,8,Offense,Catch,Matze,Flo,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2193
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,9,8,Offense,Catch,Flo,Matze,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2197
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,9,8,Offense,Catch,Matze,Hans,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2309
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,9,8,Offense,Catch,Hans,Flo,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2313
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,9,8,Offense,Throwaway,Flo,Anonymous,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2317
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,9,8,Defense,D,,,Flo,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2321
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,9,8,Offense,Catch,Flo,Matze,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2325
+2017-05-28 14:05,EUCQ,Bad Raps,147,O,9,8,Offense,Goal,Matze,Flo,,,Flex,Flo,Alan,Hans,Aze,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2329
+2017-05-28 14:05,EUCQ,Bad Raps,146,D,9,9,Defense,PullOb,,,Kitchen,,Dave,Cafi,Misch,Franz,Walder,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,2437
+2017-05-28 14:05,EUCQ,Bad Raps,146,D,9,9,Defense,Throwaway,,,Anonymous,,Dave,Cafi,Misch,Franz,Walder,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,2441
+2017-05-28 14:05,EUCQ,Bad Raps,146,D,9,9,Offense,Catch,Franz,Cafi,,,Dave,Cafi,Misch,Franz,Walder,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,2445
+2017-05-28 14:05,EUCQ,Bad Raps,146,D,9,9,Offense,Throwaway,Cafi,Anonymous,,,Dave,Cafi,Misch,Franz,Walder,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,2449
+2017-05-28 14:05,EUCQ,Bad Raps,146,D,9,9,Defense,D,,,Kitchen,,Dave,Cafi,Misch,Franz,Walder,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,2565
+2017-05-28 14:05,EUCQ,Bad Raps,146,D,9,9,Offense,Catch,Walder,Franz,,,Dave,Cafi,Misch,Franz,Walder,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,2569
+2017-05-28 14:05,EUCQ,Bad Raps,146,D,9,9,Offense,Catch,Franz,Misch,,,Dave,Cafi,Misch,Franz,Walder,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,2573
+2017-05-28 14:05,EUCQ,Bad Raps,146,D,9,9,Offense,Throwaway,Misch,Anonymous,,,Dave,Cafi,Misch,Franz,Walder,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,2577
+2017-05-28 14:05,EUCQ,Bad Raps,146,D,9,9,Defense,Goal,,,Anonymous,,Dave,Cafi,Misch,Franz,Walder,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,2581
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,10,9,Offense,Catch,Matze,Hans,,,Flex,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2688
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,10,9,Offense,Catch,Hans,Aze,,,Flex,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2697
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,10,9,Offense,Catch,Aze,Chris,,,Flex,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2701
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,10,9,Offense,Catch,Chris,Hans,,,Flex,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2705
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,10,9,Offense,Catch,Hans,Alan,,,Flex,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2709
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,10,9,Offense,Catch,Alan,Aze,,,Flex,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2713
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,10,9,Offense,Catch,Aze,Hans,,,Flex,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2821
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,10,9,Offense,Catch,Hans,Aze,,,Flex,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2825
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,10,9,Offense,Catch,Aze,Flex,,,Flex,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2829
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,10,9,Offense,Catch,Flex,Hans,,,Flex,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2833
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,10,9,Offense,Goal,Hans,Chris,,,Flex,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2837
+2017-05-28 14:05,EUCQ,Bad Raps,106,D,10,10,Defense,PullOb,,,Kitchen,,Connor,Cafi,Mou K.,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,2845
+2017-05-28 14:05,EUCQ,Bad Raps,106,D,10,10,Defense,Goal,,,Anonymous,,Connor,Cafi,Mou K.,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,2949
+2017-05-28 14:05,EUCQ,Bad Raps,31,O,11,10,Offense,Catch,Flo,Matze,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,3072
+2017-05-28 14:05,EUCQ,Bad Raps,31,O,11,10,Offense,Catch,Matze,Chris,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,3081
+2017-05-28 14:05,EUCQ,Bad Raps,31,O,11,10,Offense,Catch,Chris,Flex,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,3085
+2017-05-28 14:05,EUCQ,Bad Raps,31,O,11,10,Offense,Catch,Flex,Chris,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,3089
+2017-05-28 14:05,EUCQ,Bad Raps,31,O,11,10,Offense,Catch,Chris,Alan,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,3093
+2017-05-28 14:05,EUCQ,Bad Raps,31,O,11,10,Offense,Catch,Alan,Flo,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,3097
+2017-05-28 14:05,EUCQ,Bad Raps,31,O,11,10,Offense,Goal,Flo,Chris,,,Flex,Flo,Alan,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,3101
+2017-05-28 14:05,EUCQ,Bad Raps,22,D,12,10,Defense,Pull,,,Kitchen,6.475,Dave,Cafi,Brandon,Misch,Franz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,3333
+2017-05-28 14:05,EUCQ,Bad Raps,22,D,12,10,Defense,D,,,Walder,,Dave,Cafi,Brandon,Misch,Franz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,3337
+2017-05-28 14:05,EUCQ,Bad Raps,22,D,12,10,Offense,Catch,Franz,Dave,,,Dave,Cafi,Brandon,Misch,Franz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,3341
+2017-05-28 14:05,EUCQ,Bad Raps,22,D,12,10,Offense,Throwaway,Dave,Anonymous,,,Dave,Cafi,Brandon,Misch,Franz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,3345
+2017-05-28 14:05,EUCQ,Bad Raps,22,D,12,10,Defense,Throwaway,,,Anonymous,,Dave,Cafi,Brandon,Misch,Franz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,3349
+2017-05-28 14:05,EUCQ,Bad Raps,22,D,12,10,Offense,Goal,Walder,Kitchen,,,Dave,Cafi,Brandon,Misch,Franz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,3353
+2017-05-28 14:05,EUCQ,Bad Raps,134,D,13,10,Defense,PullOb,,,Kitchen,,Connor,Brandon,Mou K.,Moritz,Walder,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,3461
+2017-05-28 14:05,EUCQ,Bad Raps,134,D,13,10,Defense,Throwaway,,,Anonymous,,Connor,Brandon,Mou K.,Moritz,Walder,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,3589
+2017-05-28 14:05,EUCQ,Bad Raps,134,D,13,10,Offense,Goal,Walder,Kitchen,,,Connor,Brandon,Mou K.,Moritz,Walder,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,3593
+2017-05-28 14:05,EUCQ,Bad Raps,6,D,13,11,Defense,Pull,,,Chris,,Connor,Dave,Cafi,Brandon,Misch,Franz,Chris,,,,,,,,,,,,,,,,,,,,,,3717
+2017-05-28 14:05,EUCQ,Bad Raps,6,D,13,11,Defense,Goal,,,Anonymous,,Connor,Dave,Cafi,Brandon,Misch,Franz,Chris,,,,,,,,,,,,,,,,,,,,,,3721
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,14,11,Offense,Catch,Flo,Aze,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3720
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,14,11,Offense,Catch,Aze,Mike,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3845
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,14,11,Offense,Catch,Mike,Aze,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3849
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,14,11,Offense,Catch,Aze,Mike,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3853
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,14,11,Offense,Catch,Mike,Matze,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3857
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,14,11,Offense,Catch,Matze,Chris,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3861
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,14,11,Offense,Catch,Chris,Mike,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3865
+2017-05-28 14:05,EUCQ,Bad Raps,151,O,14,11,Offense,Goal,Mike,Chris,,,Flex,Flo,Alan,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3869
+2017-05-28 14:05,EUCQ,Bad Raps,6,D,14,12,Defense,Pull,,,Kitchen,,Brandon,Mou K.,Misch,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,3973
+2017-05-28 14:05,EUCQ,Bad Raps,6,D,14,12,Defense,Goal,,,Anonymous,,Brandon,Mou K.,Misch,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,3977
+2017-05-28 14:05,EUCQ,Bad Raps,135,O,15,12,Offense,Catch,Hans,Matze,,,Flex,Flo,Alan,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,3976
+2017-05-28 14:05,EUCQ,Bad Raps,135,O,15,12,Offense,Catch,Matze,Flo,,,Flex,Flo,Alan,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,4105
+2017-05-28 14:05,EUCQ,Bad Raps,135,O,15,12,Offense,Goal,Flo,Flex,,,Flex,Flo,Alan,Hans,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,4109
+2017-05-27 17:46,EUCQ,Bad SKID,410,D,1,0,Defense,Pull,,,Kitchen,3.837,Dave,Connor,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,0
+2017-05-27 17:46,EUCQ,Bad SKID,410,D,1,0,Defense,Throwaway,,,Anonymous,,Dave,Connor,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,4
+2017-05-27 17:46,EUCQ,Bad SKID,410,D,1,0,Offense,Catch,Franz,Brandon,,,Dave,Connor,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,8
+2017-05-27 17:46,EUCQ,Bad SKID,410,D,1,0,Offense,Catch,Brandon,Connor,,,Dave,Connor,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,12
+2017-05-27 17:46,EUCQ,Bad SKID,410,D,1,0,Offense,Catch,Connor,Brandon,,,Dave,Connor,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,16
+2017-05-27 17:46,EUCQ,Bad SKID,410,D,1,0,Offense,Drop,Brandon,Moritz,,,Dave,Connor,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,20
+2017-05-27 17:46,EUCQ,Bad SKID,410,D,1,0,Defense,Throwaway,,,Anonymous,,Dave,Connor,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,256
+2017-05-27 17:46,EUCQ,Bad SKID,410,D,1,0,Offense,Catch,Franz,Connor,,,Dave,Connor,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,260
+2017-05-27 17:46,EUCQ,Bad SKID,410,D,1,0,Offense,Catch,Connor,Kitchen,,,Dave,Connor,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,264
+2017-05-27 17:46,EUCQ,Bad SKID,410,D,1,0,Offense,Catch,Kitchen,Franz,,,Dave,Connor,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,384
+2017-05-27 17:46,EUCQ,Bad SKID,410,D,1,0,Offense,Catch,Franz,Brandon,,,Dave,Connor,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,388
+2017-05-27 17:46,EUCQ,Bad SKID,410,D,1,0,Offense,Catch,Brandon,Kitchen,,,Dave,Connor,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,392
+2017-05-27 17:46,EUCQ,Bad SKID,410,D,1,0,Offense,Catch,Kitchen,Connor,,,Dave,Connor,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,396
+2017-05-27 17:46,EUCQ,Bad SKID,410,D,1,0,Offense,Catch,Connor,Kitchen,,,Dave,Connor,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,400
+2017-05-27 17:46,EUCQ,Bad SKID,410,D,1,0,Offense,Catch,Kitchen,Connor,,,Dave,Connor,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,404
+2017-05-27 17:46,EUCQ,Bad SKID,410,D,1,0,Offense,Goal,Connor,Rene,,,Dave,Connor,Brandon,Franz,Rene,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,408
+2017-05-27 17:46,EUCQ,Bad SKID,6,D,1,1,Defense,Pull,,,Kitchen,7.369,Dave,Cafi,Brandon,Mou K.,Misch,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,412
+2017-05-27 17:46,EUCQ,Bad SKID,6,D,1,1,Defense,Goal,,,Anonymous,,Dave,Cafi,Brandon,Mou K.,Misch,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,416
+2017-05-27 17:46,EUCQ,Bad SKID,283,O,2,1,Offense,Catch,Hans,Matze,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,507
+2017-05-27 17:46,EUCQ,Bad SKID,283,O,2,1,Offense,Catch,Matze,Aze,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,516
+2017-05-27 17:46,EUCQ,Bad SKID,283,O,2,1,Offense,Catch,Aze,Matze,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,520
+2017-05-27 17:46,EUCQ,Bad SKID,283,O,2,1,Offense,Catch,Matze,Hans,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,524
+2017-05-27 17:46,EUCQ,Bad SKID,283,O,2,1,Offense,Catch,Hans,Alan,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,528
+2017-05-27 17:46,EUCQ,Bad SKID,283,O,2,1,Offense,Catch,Alan,Flo,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,532
+2017-05-27 17:46,EUCQ,Bad SKID,283,O,2,1,Offense,Catch,Flo,Hans,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,536
+2017-05-27 17:46,EUCQ,Bad SKID,283,O,2,1,Offense,Throwaway,Hans,Anonymous,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,540
+2017-05-27 17:46,EUCQ,Bad SKID,283,O,2,1,Defense,D,,,Chris,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,640
+2017-05-27 17:46,EUCQ,Bad SKID,283,O,2,1,Offense,Catch,Hans,Flo,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,644
+2017-05-27 17:46,EUCQ,Bad SKID,283,O,2,1,Offense,Drop,Flo,Chris,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,648
+2017-05-27 17:46,EUCQ,Bad SKID,283,O,2,1,Defense,D,,,Matze,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,768
+2017-05-27 17:46,EUCQ,Bad SKID,283,O,2,1,Offense,Catch,Matze,Rainer,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,772
+2017-05-27 17:46,EUCQ,Bad SKID,283,O,2,1,Offense,Catch,Rainer,Flo,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,776
+2017-05-27 17:46,EUCQ,Bad SKID,283,O,2,1,Offense,Catch,Flo,Rainer,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,780
+2017-05-27 17:46,EUCQ,Bad SKID,283,O,2,1,Offense,Catch,Rainer,Flo,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,784
+2017-05-27 17:46,EUCQ,Bad SKID,283,O,2,1,Offense,Goal,Flo,Rainer,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,788
+2017-05-27 17:46,EUCQ,Bad SKID,6,D,2,2,Defense,Pull,,,Kitchen,2.672,Dave,Connor,Brandon,Misch,Franz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,792
+2017-05-27 17:46,EUCQ,Bad SKID,6,D,2,2,Defense,Goal,,,Anonymous,,Dave,Connor,Brandon,Misch,Franz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,796
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Matze,Mike,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,891
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Mike,Alan,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,900
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Alan,Mike,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,904
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Mike,Matze,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,908
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Matze,Aze,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,912
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Aze,Matze,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,916
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Matze,Mike,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,920
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Mike,Alan,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,924
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Alan,Flo,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,928
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Flo,Chris,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,932
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Chris,Alan,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,936
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Alan,Mike,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,940
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Mike,Flo,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,944
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Flo,Aze,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,948
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Aze,Flo,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,952
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Flo,Mike,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,956
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Mike,Flo,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,960
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Flo,Matze,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,964
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Matze,Aze,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,968
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Aze,Rainer,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1024
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Catch,Rainer,Aze,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1028
+2017-05-27 17:46,EUCQ,Bad SKID,143,O,3,2,Offense,Goal,Aze,Alan,,,Flo,Alan,Aze,Mike,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1032
+2017-05-27 17:46,EUCQ,Bad SKID,138,D,3,3,Defense,Pull,,,Kitchen,5.002,Cafi,Mou K.,Brandon,Misch,Walder,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,1036
+2017-05-27 17:46,EUCQ,Bad SKID,138,D,3,3,Defense,D,,,Cafi,,Cafi,Mou K.,Brandon,Misch,Walder,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,1152
+2017-05-27 17:46,EUCQ,Bad SKID,138,D,3,3,Offense,Catch,Walder,Mou K.,,,Cafi,Mou K.,Brandon,Misch,Walder,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,1156
+2017-05-27 17:46,EUCQ,Bad SKID,138,D,3,3,Offense,Catch,Mou K.,Brandon,,,Cafi,Mou K.,Brandon,Misch,Walder,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,1160
+2017-05-27 17:46,EUCQ,Bad SKID,138,D,3,3,Offense,Catch,Brandon,Kitchen,,,Cafi,Mou K.,Brandon,Misch,Walder,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,1164
+2017-05-27 17:46,EUCQ,Bad SKID,138,D,3,3,Offense,Throwaway,Kitchen,Anonymous,,,Cafi,Mou K.,Brandon,Misch,Walder,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,1168
+2017-05-27 17:46,EUCQ,Bad SKID,138,D,3,3,Defense,Goal,,,Anonymous,,Cafi,Mou K.,Brandon,Misch,Walder,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,1172
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,4,3,Offense,Catch,Matze,Hans,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1275
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,4,3,Offense,Catch,Hans,Matze,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1284
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,4,3,Offense,Catch,Matze,Hans,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1288
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,4,3,Offense,Catch,Hans,Aze,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1292
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,4,3,Offense,Catch,Aze,Rainer,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1296
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,4,3,Offense,Catch,Rainer,Chris,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1300
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,4,3,Offense,Throwaway,Chris,Anonymous,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1304
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,4,3,Defense,D,,,Chris,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1408
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,4,3,Offense,Catch,Aze,Matze,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1412
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,4,3,Offense,Catch,Matze,Hans,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1416
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,4,3,Offense,Goal,Hans,Flo,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1420
+2017-05-27 17:46,EUCQ,Bad SKID,114,D,4,4,Defense,Pull,,,Kitchen,5.251,Dave,Connor,Brandon,Misch,Franz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1424
+2017-05-27 17:46,EUCQ,Bad SKID,114,D,4,4,Defense,Goal,,,Anonymous,,Dave,Connor,Brandon,Misch,Franz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,1536
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Catch,Mike,Matze,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1535
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Catch,Matze,Flo,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1544
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Catch,Flo,Rainer,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1664
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Catch,Rainer,Flo,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1668
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Catch,Flo,Mike,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1672
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Catch,Mike,Aze,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1676
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Catch,Aze,Mike,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1680
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Catch,Mike,Rainer,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1684
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Catch,Rainer,Mike,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1688
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Catch,Mike,Rainer,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1692
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Throwaway,Rainer,Anonymous,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1696
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Defense,Throwaway,,,Anonymous,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1700
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Catch,Flo,Aze,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1704
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Catch,Aze,Matze,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1708
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Catch,Matze,Alan,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1712
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Catch,Alan,Aze,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1716
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Catch,Aze,Flo,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1720
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Drop,Flo,Rainer,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1724
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Defense,D,,,Alan,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1792
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Catch,Chris,Matze,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1796
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Catch,Matze,Aze,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1800
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Offense,Drop,Aze,Chris,,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1808
+2017-05-27 17:46,EUCQ,Bad SKID,515,O,4,5,Defense,Goal,,,Anonymous,,Flo,Alan,Aze,Rainer,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2048
+2017-05-27 17:46,EUCQ,Bad SKID,259,O,5,5,Offense,Catch,Franz,Matze,,,Flo,Aze,Hans,Franz,Rainer,Matze,Kitchen,,,,,,,,,,,,,,,,,,,,,,2047
+2017-05-27 17:46,EUCQ,Bad SKID,259,O,5,5,Offense,Catch,Matze,Rainer,,,Flo,Aze,Hans,Franz,Rainer,Matze,Kitchen,,,,,,,,,,,,,,,,,,,,,,2176
+2017-05-27 17:46,EUCQ,Bad SKID,259,O,5,5,Offense,Catch,Rainer,Kitchen,,,Flo,Aze,Hans,Franz,Rainer,Matze,Kitchen,,,,,,,,,,,,,,,,,,,,,,2180
+2017-05-27 17:46,EUCQ,Bad SKID,259,O,5,5,Offense,Throwaway,Kitchen,Anonymous,,,Flo,Aze,Hans,Franz,Rainer,Matze,Kitchen,,,,,,,,,,,,,,,,,,,,,,2184
+2017-05-27 17:46,EUCQ,Bad SKID,259,O,5,5,Defense,D,,,Rainer,,Flo,Aze,Hans,Franz,Rainer,Matze,Kitchen,,,,,,,,,,,,,,,,,,,,,,2188
+2017-05-27 17:46,EUCQ,Bad SKID,259,O,5,5,Offense,Goal,Hans,Kitchen,,,Flo,Aze,Hans,Franz,Rainer,Matze,Kitchen,,,,,,,,,,,,,,,,,,,,,,2304
+2017-05-27 17:46,EUCQ,Bad SKID,270,D,5,6,Defense,Pull,,,Kitchen,4.788,Dave,Cafi,Brandon,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,2308
+2017-05-27 17:46,EUCQ,Bad SKID,270,D,5,6,Defense,Throwaway,,,Anonymous,,Dave,Cafi,Brandon,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,2312
+2017-05-27 17:46,EUCQ,Bad SKID,270,D,5,6,Offense,Catch,Walder,Cafi,,,Dave,Cafi,Brandon,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,2432
+2017-05-27 17:46,EUCQ,Bad SKID,270,D,5,6,Offense,Catch,Cafi,Brandon,,,Dave,Cafi,Brandon,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,2436
+2017-05-27 17:46,EUCQ,Bad SKID,270,D,5,6,Offense,Catch,Brandon,Cafi,,,Dave,Cafi,Brandon,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,2440
+2017-05-27 17:46,EUCQ,Bad SKID,270,D,5,6,Offense,Catch,Cafi,Dave,,,Dave,Cafi,Brandon,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,2444
+2017-05-27 17:46,EUCQ,Bad SKID,270,D,5,6,Offense,Catch,Dave,Walder,,,Dave,Cafi,Brandon,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,2448
+2017-05-27 17:46,EUCQ,Bad SKID,270,D,5,6,Offense,Catch,Walder,Kitchen,,,Dave,Cafi,Brandon,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,2452
+2017-05-27 17:46,EUCQ,Bad SKID,270,D,5,6,Offense,Catch,Kitchen,Dave,,,Dave,Cafi,Brandon,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,2456
+2017-05-27 17:46,EUCQ,Bad SKID,270,D,5,6,Offense,Catch,Dave,Walder,,,Dave,Cafi,Brandon,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,2460
+2017-05-27 17:46,EUCQ,Bad SKID,270,D,5,6,Offense,Throwaway,Walder,Anonymous,,,Dave,Cafi,Brandon,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,2560
+2017-05-27 17:46,EUCQ,Bad SKID,270,D,5,6,Defense,D,,,Cafi,,Dave,Cafi,Brandon,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,2564
+2017-05-27 17:46,EUCQ,Bad SKID,270,D,5,6,Offense,Catch,Misch,Kitchen,,,Dave,Cafi,Brandon,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,2568
+2017-05-27 17:46,EUCQ,Bad SKID,270,D,5,6,Offense,Drop,Kitchen,Misch,,,Dave,Cafi,Brandon,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,2572
+2017-05-27 17:46,EUCQ,Bad SKID,270,D,5,6,Defense,Goal,,,Anonymous,,Dave,Cafi,Brandon,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,2576
+2017-05-27 17:46,EUCQ,Bad SKID,59,O,6,6,Offense,Catch,Aze,Hans,,,Flo,Alan,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2683
+2017-05-27 17:46,EUCQ,Bad SKID,59,O,6,6,Offense,Catch,Hans,Mike,,,Flo,Alan,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2692
+2017-05-27 17:46,EUCQ,Bad SKID,59,O,6,6,Offense,Catch,Mike,Alan,,,Flo,Alan,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2696
+2017-05-27 17:46,EUCQ,Bad SKID,59,O,6,6,Offense,Catch,Alan,Flo,,,Flo,Alan,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2700
+2017-05-27 17:46,EUCQ,Bad SKID,59,O,6,6,Offense,Catch,Flo,Mike,,,Flo,Alan,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2704
+2017-05-27 17:46,EUCQ,Bad SKID,59,O,6,6,Offense,Catch,Mike,Flo,,,Flo,Alan,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2708
+2017-05-27 17:46,EUCQ,Bad SKID,59,O,6,6,Offense,Catch,Flo,Alan,,,Flo,Alan,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2712
+2017-05-27 17:46,EUCQ,Bad SKID,59,O,6,6,Offense,Catch,Alan,Flo,,,Flo,Alan,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2716
+2017-05-27 17:46,EUCQ,Bad SKID,59,O,6,6,Offense,Catch,Flo,Mike,,,Flo,Alan,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2720
+2017-05-27 17:46,EUCQ,Bad SKID,59,O,6,6,Offense,Catch,Mike,Hans,,,Flo,Alan,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2724
+2017-05-27 17:46,EUCQ,Bad SKID,59,O,6,6,Offense,Catch,Hans,Flo,,,Flo,Alan,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2728
+2017-05-27 17:46,EUCQ,Bad SKID,59,O,6,6,Offense,Catch,Flo,Hans,,,Flo,Alan,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2732
+2017-05-27 17:46,EUCQ,Bad SKID,59,O,6,6,Offense,Catch,Hans,Chris,,,Flo,Alan,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2736
+2017-05-27 17:46,EUCQ,Bad SKID,59,O,6,6,Offense,Goal,Chris,Flo,,,Flo,Alan,Hans,Aze,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2740
+2017-05-27 17:46,EUCQ,Bad SKID,6,D,6,7,Defense,Pull,,,Kitchen,,Connor,Dave,Mou K.,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,2816
+2017-05-27 17:46,EUCQ,Bad SKID,6,D,6,7,Defense,Goal,,,Anonymous,,Connor,Dave,Mou K.,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,2820
+2017-05-27 17:46,EUCQ,Bad SKID,135,O,6,8,Offense,Catch,Alan,Hans,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2939
+2017-05-27 17:46,EUCQ,Bad SKID,135,O,6,8,Offense,Catch,Hans,Alan,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2948
+2017-05-27 17:46,EUCQ,Bad SKID,135,O,6,8,Offense,Catch,Alan,Hans,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2952
+2017-05-27 17:46,EUCQ,Bad SKID,135,O,6,8,Offense,Catch,Hans,Matze,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2956
+2017-05-27 17:46,EUCQ,Bad SKID,135,O,6,8,Offense,Catch,Matze,Hans,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2960
+2017-05-27 17:46,EUCQ,Bad SKID,135,O,6,8,Offense,Catch,Hans,Alan,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2964
+2017-05-27 17:46,EUCQ,Bad SKID,135,O,6,8,Offense,Catch,Alan,Hans,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2968
+2017-05-27 17:46,EUCQ,Bad SKID,135,O,6,8,Offense,Catch,Hans,Matze,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2972
+2017-05-27 17:46,EUCQ,Bad SKID,135,O,6,8,Offense,Catch,Matze,Aze,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2976
+2017-05-27 17:46,EUCQ,Bad SKID,135,O,6,8,Offense,Catch,Aze,Flo,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2980
+2017-05-27 17:46,EUCQ,Bad SKID,135,O,6,8,Offense,Catch,Flo,Chris,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2984
+2017-05-27 17:46,EUCQ,Bad SKID,135,O,6,8,Offense,Catch,Chris,Flo,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2988
+2017-05-27 17:46,EUCQ,Bad SKID,135,O,6,8,Offense,Catch,Flo,Hans,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2992
+2017-05-27 17:46,EUCQ,Bad SKID,135,O,6,8,Offense,Throwaway,Hans,Anonymous,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2996
+2017-05-27 17:46,EUCQ,Bad SKID,135,O,6,8,Defense,Goal,,,Anonymous,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3072
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,7,8,Offense,Catch,Hans,Flo,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,3195
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,7,8,Offense,Catch,Flo,Rainer,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,3204
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,7,8,Offense,Catch,Rainer,Chris,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,3208
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,7,8,Offense,Catch,Chris,Flo,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,3212
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,7,8,Offense,Catch,Flo,Hans,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,3216
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,7,8,Offense,Catch,Hans,Flo,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,3328
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,7,8,Offense,Catch,Flo,Alan,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,3332
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,7,8,Offense,Catch,Alan,Hans,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,3336
+2017-05-27 17:46,EUCQ,Bad SKID,147,O,7,8,Offense,Goal,Hans,Rainer,,,Flo,Alan,Hans,Aze,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,3340
+2017-05-27 17:46,EUCQ,Bad SKID,118,D,7,9,Defense,Pull,,,Kitchen,,Dave,Connor,Brandon,Misch,Franz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,3344
+2017-05-27 17:46,EUCQ,Bad SKID,118,D,7,9,Defense,Throwaway,,,Anonymous,,Dave,Connor,Brandon,Misch,Franz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,3348
+2017-05-27 17:46,EUCQ,Bad SKID,118,D,7,9,Offense,Throwaway,Franz,Anonymous,,,Dave,Connor,Brandon,Misch,Franz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,3456
+2017-05-27 17:46,EUCQ,Bad SKID,118,D,7,9,Defense,Goal,,,Anonymous,,Dave,Connor,Brandon,Misch,Franz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,3460
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Hans,Mike,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3579
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Mike,Aze,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3588
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Aze,Hans,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3592
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Hans,Mike,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3596
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Mike,Matze,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3600
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Matze,Chris,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3604
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Chris,Matze,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3608
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Matze,Mike,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3612
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Mike,Aze,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3616
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Aze,Alan,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3620
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Throwaway,Alan,Anonymous,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3624
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Defense,Throwaway,,,Anonymous,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3712
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Aze,Matze,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3840
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Matze,Hans,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3844
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Hans,Alan,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3848
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Alan,Hans,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3852
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Hans,Aze,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3856
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Aze,Mike,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3860
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Mike,Flo,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3864
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Flo,Hans,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3868
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Hans,Chris,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3872
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Chris,Mike,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3876
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Mike,Aze,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3880
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Aze,Flo,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3968
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Flo,Matze,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3972
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Matze,Mike,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3976
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Mike,Hans,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3980
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Catch,Hans,Flo,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3984
+2017-05-27 17:46,EUCQ,Bad SKID,411,O,8,9,Offense,Goal,Flo,Aze,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3988
+2017-05-27 17:46,EUCQ,Bad SKID,6,D,8,10,Defense,PullOb,,,Kitchen,,Dave,Cafi,Mou K.,Brandon,Moritz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,4096
+2017-05-27 17:46,EUCQ,Bad SKID,6,D,8,10,Defense,Goal,,,Anonymous,,Dave,Cafi,Mou K.,Brandon,Moritz,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,4100
+2017-05-27 14:49,EUCQ,7Schwaben,31,O,1,0,Offense,Catch,Matze,Hans,,,Flo,Alan,Hans,Aze,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,0
+2017-05-27 14:49,EUCQ,7Schwaben,31,O,1,0,Offense,Catch,Hans,Aze,,,Flo,Alan,Hans,Aze,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,9
+2017-05-27 14:49,EUCQ,7Schwaben,31,O,1,0,Offense,Catch,Aze,Matze,,,Flo,Alan,Hans,Aze,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,13
+2017-05-27 14:49,EUCQ,7Schwaben,31,O,1,0,Offense,Catch,Matze,Rainer,,,Flo,Alan,Hans,Aze,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,17
+2017-05-27 14:49,EUCQ,7Schwaben,31,O,1,0,Offense,Catch,Rainer,Chris,,,Flo,Alan,Hans,Aze,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,21
+2017-05-27 14:49,EUCQ,7Schwaben,31,O,1,0,Offense,Catch,Chris,Flo,,,Flo,Alan,Hans,Aze,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,25
+2017-05-27 14:49,EUCQ,7Schwaben,31,O,1,0,Offense,Goal,Flo,Aze,,,Flo,Alan,Hans,Aze,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,29
+2017-05-27 14:49,EUCQ,7Schwaben,102,D,1,1,Defense,Pull,,,Kitchen,5.438,Cafi,Brandon,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,33
+2017-05-27 14:49,EUCQ,7Schwaben,102,D,1,1,Defense,Goal,,,Anonymous,,Cafi,Brandon,Misch,Franz,Moritz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,133
+2017-05-27 14:49,EUCQ,7Schwaben,139,O,2,1,Offense,Catch,Flo,Matze,,,Flo,Alan,Aze,Hans,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,132
+2017-05-27 14:49,EUCQ,7Schwaben,139,O,2,1,Offense,Throwaway,Matze,Anonymous,,,Flo,Alan,Aze,Hans,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,141
+2017-05-27 14:49,EUCQ,7Schwaben,139,O,2,1,Defense,Throwaway,,,Anonymous,,Flo,Alan,Aze,Hans,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,261
+2017-05-27 14:49,EUCQ,7Schwaben,139,O,2,1,Offense,Catch,Matze,Hans,,,Flo,Alan,Aze,Hans,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,265
+2017-05-27 14:49,EUCQ,7Schwaben,139,O,2,1,Offense,Goal,Hans,Chris,,,Flo,Alan,Aze,Hans,Rainer,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,269
+2017-05-27 14:49,EUCQ,7Schwaben,6,D,2,2,Defense,Pull,,,Kitchen,4.605,Davide,Dave,Mou K.,Brandon,Misch,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,389
+2017-05-27 14:49,EUCQ,7Schwaben,6,D,2,2,Defense,Goal,,,Anonymous,,Davide,Dave,Mou K.,Brandon,Misch,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,393
+2017-05-27 14:49,EUCQ,7Schwaben,267,O,3,2,Offense,Catch,Aze,Flo,,,Flo,Alan,Aze,Rainer,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,392
+2017-05-27 14:49,EUCQ,7Schwaben,267,O,3,2,Offense,Catch,Flo,Chris,,,Flo,Alan,Aze,Rainer,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,517
+2017-05-27 14:49,EUCQ,7Schwaben,267,O,3,2,Offense,Catch,Chris,Flo,,,Flo,Alan,Aze,Rainer,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,521
+2017-05-27 14:49,EUCQ,7Schwaben,267,O,3,2,Offense,Catch,Flo,Alan,,,Flo,Alan,Aze,Rainer,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,525
+2017-05-27 14:49,EUCQ,7Schwaben,267,O,3,2,Offense,Throwaway,Alan,Anonymous,,,Flo,Alan,Aze,Rainer,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,529
+2017-05-27 14:49,EUCQ,7Schwaben,267,O,3,2,Defense,D,,,Aze,,Flo,Alan,Aze,Rainer,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,533
+2017-05-27 14:49,EUCQ,7Schwaben,267,O,3,2,Offense,Catch,Flo,Chris,,,Flo,Alan,Aze,Rainer,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,537
+2017-05-27 14:49,EUCQ,7Schwaben,267,O,3,2,Offense,Catch,Chris,Alan,,,Flo,Alan,Aze,Rainer,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,541
+2017-05-27 14:49,EUCQ,7Schwaben,267,O,3,2,Offense,Catch,Alan,Rainer,,,Flo,Alan,Aze,Rainer,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,545
+2017-05-27 14:49,EUCQ,7Schwaben,267,O,3,2,Offense,Catch,Rainer,Mike,,,Flo,Alan,Aze,Rainer,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,549
+2017-05-27 14:49,EUCQ,7Schwaben,267,O,3,2,Offense,Catch,Mike,Matze,,,Flo,Alan,Aze,Rainer,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,645
+2017-05-27 14:49,EUCQ,7Schwaben,267,O,3,2,Offense,Catch,Matze,Alan,,,Flo,Alan,Aze,Rainer,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,649
+2017-05-27 14:49,EUCQ,7Schwaben,267,O,3,2,Offense,Catch,Alan,Rainer,,,Flo,Alan,Aze,Rainer,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,653
+2017-05-27 14:49,EUCQ,7Schwaben,267,O,3,2,Offense,Goal,Rainer,Chris,,,Flo,Alan,Aze,Rainer,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,657
+2017-05-27 14:49,EUCQ,7Schwaben,114,D,4,2,Defense,Pull,,,Kitchen,,Dave,Connor,Cafi,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,661
+2017-05-27 14:49,EUCQ,7Schwaben,114,D,4,2,Defense,Throwaway,,,Anonymous,,Dave,Connor,Cafi,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,665
+2017-05-27 14:49,EUCQ,7Schwaben,114,D,4,2,Offense,Catch,Franz,Connor,,,Dave,Connor,Cafi,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,669
+2017-05-27 14:49,EUCQ,7Schwaben,114,D,4,2,Offense,Catch,Connor,Moritz,,,Dave,Connor,Cafi,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,673
+2017-05-27 14:49,EUCQ,7Schwaben,114,D,4,2,Offense,Catch,Moritz,Connor,,,Dave,Connor,Cafi,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,677
+2017-05-27 14:49,EUCQ,7Schwaben,114,D,4,2,Offense,Catch,Connor,Brandon,,,Dave,Connor,Cafi,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,681
+2017-05-27 14:49,EUCQ,7Schwaben,114,D,4,2,Offense,Goal,Brandon,Dave,,,Dave,Connor,Cafi,Brandon,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,773
+2017-05-27 14:49,EUCQ,7Schwaben,146,D,5,2,Defense,Pull,,,Kitchen,5.085,Dave,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,777
+2017-05-27 14:49,EUCQ,7Schwaben,146,D,5,2,Defense,Throwaway,,,Anonymous,,Dave,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,781
+2017-05-27 14:49,EUCQ,7Schwaben,146,D,5,2,Offense,Catch,Misch,Walder,,,Dave,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,785
+2017-05-27 14:49,EUCQ,7Schwaben,146,D,5,2,Offense,Catch,Walder,Misch,,,Dave,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,789
+2017-05-27 14:49,EUCQ,7Schwaben,146,D,5,2,Offense,Catch,Misch,Walder,,,Dave,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,901
+2017-05-27 14:49,EUCQ,7Schwaben,146,D,5,2,Offense,Catch,Walder,Rene,,,Dave,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,905
+2017-05-27 14:49,EUCQ,7Schwaben,146,D,5,2,Offense,Catch,Rene,Walder,,,Dave,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,909
+2017-05-27 14:49,EUCQ,7Schwaben,146,D,5,2,Offense,Catch,Walder,Dave,,,Dave,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,913
+2017-05-27 14:49,EUCQ,7Schwaben,146,D,5,2,Offense,Catch,Dave,Walder,,,Dave,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,917
+2017-05-27 14:49,EUCQ,7Schwaben,146,D,5,2,Offense,Goal,Walder,Mou K.,,,Dave,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,921
+2017-05-27 14:49,EUCQ,7Schwaben,134,D,6,2,Defense,Pull,,,Moritz,4.291,Davide,Dave,Connor,Cafi,Brandon,Franz,Moritz,,,,,,,,,,,,,,,,,,,,,,925
+2017-05-27 14:49,EUCQ,7Schwaben,134,D,6,2,Defense,D,,,Moritz,,Davide,Dave,Connor,Cafi,Brandon,Franz,Moritz,,,,,,,,,,,,,,,,,,,,,,929
+2017-05-27 14:49,EUCQ,7Schwaben,134,D,6,2,Offense,Catch,Moritz,Dave,,,Davide,Dave,Connor,Cafi,Brandon,Franz,Moritz,,,,,,,,,,,,,,,,,,,,,,1029
+2017-05-27 14:49,EUCQ,7Schwaben,134,D,6,2,Offense,Catch,Dave,Franz,,,Davide,Dave,Connor,Cafi,Brandon,Franz,Moritz,,,,,,,,,,,,,,,,,,,,,,1033
+2017-05-27 14:49,EUCQ,7Schwaben,134,D,6,2,Offense,Catch,Franz,Brandon,,,Davide,Dave,Connor,Cafi,Brandon,Franz,Moritz,,,,,,,,,,,,,,,,,,,,,,1037
+2017-05-27 14:49,EUCQ,7Schwaben,134,D,6,2,Offense,Catch,Brandon,Cafi,,,Davide,Dave,Connor,Cafi,Brandon,Franz,Moritz,,,,,,,,,,,,,,,,,,,,,,1041
+2017-05-27 14:49,EUCQ,7Schwaben,134,D,6,2,Offense,Catch,Cafi,Moritz,,,Davide,Dave,Connor,Cafi,Brandon,Franz,Moritz,,,,,,,,,,,,,,,,,,,,,,1045
+2017-05-27 14:49,EUCQ,7Schwaben,134,D,6,2,Offense,Catch,Moritz,Franz,,,Davide,Dave,Connor,Cafi,Brandon,Franz,Moritz,,,,,,,,,,,,,,,,,,,,,,1049
+2017-05-27 14:49,EUCQ,7Schwaben,134,D,6,2,Offense,Catch,Franz,Cafi,,,Davide,Dave,Connor,Cafi,Brandon,Franz,Moritz,,,,,,,,,,,,,,,,,,,,,,1053
+2017-05-27 14:49,EUCQ,7Schwaben,134,D,6,2,Offense,Goal,Cafi,Brandon,,,Davide,Dave,Connor,Cafi,Brandon,Franz,Moritz,,,,,,,,,,,,,,,,,,,,,,1057
+2017-05-27 14:49,EUCQ,7Schwaben,230,D,7,2,Defense,Pull,,,Kitchen,6.886,Connor,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1061
+2017-05-27 14:49,EUCQ,7Schwaben,230,D,7,2,Defense,D,,,Rene,,Connor,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1157
+2017-05-27 14:49,EUCQ,7Schwaben,230,D,7,2,Offense,Catch,Connor,Misch,,,Connor,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1161
+2017-05-27 14:49,EUCQ,7Schwaben,230,D,7,2,Offense,Catch,Misch,Connor,,,Connor,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1165
+2017-05-27 14:49,EUCQ,7Schwaben,230,D,7,2,Offense,Catch,Connor,Misch,,,Connor,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1169
+2017-05-27 14:49,EUCQ,7Schwaben,230,D,7,2,Offense,Throwaway,Misch,Anonymous,,,Connor,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1173
+2017-05-27 14:49,EUCQ,7Schwaben,230,D,7,2,Defense,Throwaway,,,Anonymous,,Connor,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1285
+2017-05-27 14:49,EUCQ,7Schwaben,230,D,7,2,Offense,Goal,Brandon,Walder,,,Connor,Brandon,Mou K.,Misch,Rene,Walder,Kitchen,,,,,,,,,,,,,,,,,,,,,,1289
+2017-05-27 14:49,EUCQ,7Schwaben,6,D,7,3,Defense,Pull,,,Franz,3.721,Davide,Dave,Cafi,Franz,Moritz,Mike,Chris,,,,,,,,,,,,,,,,,,,,,,1413
+2017-05-27 14:49,EUCQ,7Schwaben,6,D,7,3,Defense,Goal,,,Anonymous,,Davide,Dave,Cafi,Franz,Moritz,Mike,Chris,,,,,,,,,,,,,,,,,,,,,,1417
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Catch,Hans,Matze,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1536
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Catch,Matze,Hans,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1545
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Catch,Hans,Matze,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1549
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Catch,Matze,Hans,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1553
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Catch,Hans,Rainer,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1557
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Catch,Rainer,Hans,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1561
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Catch,Hans,Rainer,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1565
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Catch,Rainer,Aze,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1569
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Catch,Aze,Flo,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1573
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Catch,Flo,Chris,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1577
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Throwaway,Chris,Anonymous,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1581
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Defense,Throwaway,,,Anonymous,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1669
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Catch,Aze,Hans,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1673
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Catch,Hans,Rainer,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1677
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Catch,Rainer,Flo,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1681
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Catch,Flo,Alan,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1685
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Catch,Alan,Chris,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1689
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Catch,Chris,Hans,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1693
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Catch,Hans,Flo,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1697
+2017-05-27 14:49,EUCQ,7Schwaben,167,O,8,3,Offense,Goal,Flo,Rainer,,,Flo,Alan,Aze,Hans,Rainer,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,1701
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Defense,Pull,,,Kitchen,5.02,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1797
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Defense,Throwaway,,,Anonymous,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1801
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Offense,Catch,Connor,Brandon,,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1805
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Offense,Throwaway,Brandon,Anonymous,,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1809
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Defense,Throwaway,,,Anonymous,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1925
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Offense,Catch,Connor,Cafi,,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1929
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Offense,Catch,Cafi,Dave,,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1933
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Offense,Catch,Dave,Connor,,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1937
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Offense,Catch,Connor,Kitchen,,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1941
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Offense,Catch,Kitchen,Dave,,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1945
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Offense,Catch,Dave,Misch,,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1949
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Offense,Catch,Misch,Connor,,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1953
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Offense,Catch,Connor,Dave,,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1957
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Offense,Catch,Dave,Brandon,,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1961
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Offense,Catch,Brandon,Misch,,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1965
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Offense,Catch,Misch,Brandon,,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1969
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Offense,Catch,Brandon,Connor,,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1973
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Offense,Catch,Connor,Misch,,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1977
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Offense,Catch,Misch,Mou K.,,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1981
+2017-05-27 14:49,EUCQ,7Schwaben,190,D,9,3,Offense,Goal,Mou K.,Kitchen,,,Connor,Dave,Cafi,Mou K.,Brandon,Misch,Kitchen,,,,,,,,,,,,,,,,,,,,,,1985
+2017-05-27 14:49,EUCQ,7Schwaben,22,D,9,4,Defense,Pull,,,Dave,3.313,Dave,Franz,Rainer,Mike,Rene,Moritz,Walder,,,,,,,,,,,,,,,,,,,,,,2053
+2017-05-27 14:49,EUCQ,7Schwaben,22,D,9,4,Defense,D,,,Moritz,,Dave,Franz,Rainer,Mike,Rene,Moritz,Walder,,,,,,,,,,,,,,,,,,,,,,2057
+2017-05-27 14:49,EUCQ,7Schwaben,22,D,9,4,Offense,Catch,Franz,Mike,,,Dave,Franz,Rainer,Mike,Rene,Moritz,Walder,,,,,,,,,,,,,,,,,,,,,,2061
+2017-05-27 14:49,EUCQ,7Schwaben,22,D,9,4,Offense,Catch,Mike,Moritz,,,Dave,Franz,Rainer,Mike,Rene,Moritz,Walder,,,,,,,,,,,,,,,,,,,,,,2065
+2017-05-27 14:49,EUCQ,7Schwaben,22,D,9,4,Offense,Throwaway,Moritz,Anonymous,,,Dave,Franz,Rainer,Mike,Rene,Moritz,Walder,,,,,,,,,,,,,,,,,,,,,,2069
+2017-05-27 14:49,EUCQ,7Schwaben,22,D,9,4,Defense,Goal,,,Anonymous,,Dave,Franz,Rainer,Mike,Rene,Moritz,Walder,,,,,,,,,,,,,,,,,,,,,,2073
+2017-05-27 14:49,EUCQ,7Schwaben,63,O,10,4,Offense,Catch,Flo,Hans,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2176
+2017-05-27 14:49,EUCQ,7Schwaben,63,O,10,4,Offense,Catch,Hans,Flo,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2185
+2017-05-27 14:49,EUCQ,7Schwaben,63,O,10,4,Offense,Catch,Flo,Hans,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2189
+2017-05-27 14:49,EUCQ,7Schwaben,63,O,10,4,Offense,Catch,Hans,Mike,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2193
+2017-05-27 14:49,EUCQ,7Schwaben,63,O,10,4,Offense,Catch,Mike,Aze,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2197
+2017-05-27 14:49,EUCQ,7Schwaben,63,O,10,4,Offense,Catch,Aze,Matze,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2201
+2017-05-27 14:49,EUCQ,7Schwaben,63,O,10,4,Offense,Catch,Matze,Hans,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2205
+2017-05-27 14:49,EUCQ,7Schwaben,63,O,10,4,Offense,Catch,Hans,Aze,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2209
+2017-05-27 14:49,EUCQ,7Schwaben,63,O,10,4,Offense,Catch,Aze,Hans,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2213
+2017-05-27 14:49,EUCQ,7Schwaben,63,O,10,4,Offense,Catch,Hans,Matze,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2217
+2017-05-27 14:49,EUCQ,7Schwaben,63,O,10,4,Offense,Catch,Matze,Mike,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2221
+2017-05-27 14:49,EUCQ,7Schwaben,63,O,10,4,Offense,Catch,Mike,Chris,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2225
+2017-05-27 14:49,EUCQ,7Schwaben,63,O,10,4,Offense,Catch,Chris,Aze,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2229
+2017-05-27 14:49,EUCQ,7Schwaben,63,O,10,4,Offense,Catch,Aze,Flo,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2233
+2017-05-27 14:49,EUCQ,7Schwaben,63,O,10,4,Offense,Goal,Flo,Alan,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,2237
+2017-05-27 14:49,EUCQ,7Schwaben,150,D,11,4,Defense,Pull,,,Kitchen,,Dave,Connor,Brandon,Mou K.,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,2309
+2017-05-27 14:49,EUCQ,7Schwaben,150,D,11,4,Defense,D,,,Brandon,,Dave,Connor,Brandon,Mou K.,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,2437
+2017-05-27 14:49,EUCQ,7Schwaben,150,D,11,4,Offense,Catch,Connor,Dave,,,Dave,Connor,Brandon,Mou K.,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,2441
+2017-05-27 14:49,EUCQ,7Schwaben,150,D,11,4,Offense,Catch,Dave,Connor,,,Dave,Connor,Brandon,Mou K.,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,2445
+2017-05-27 14:49,EUCQ,7Schwaben,150,D,11,4,Offense,Catch,Connor,Mou K.,,,Dave,Connor,Brandon,Mou K.,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,2449
+2017-05-27 14:49,EUCQ,7Schwaben,150,D,11,4,Offense,Catch,Mou K.,Brandon,,,Dave,Connor,Brandon,Mou K.,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,2453
+2017-05-27 14:49,EUCQ,7Schwaben,150,D,11,4,Offense,Goal,Brandon,Kitchen,,,Dave,Connor,Brandon,Mou K.,Franz,Moritz,Kitchen,,,,,,,,,,,,,,,,,,,,,,2457
+2017-05-27 14:49,EUCQ,7Schwaben,258,D,11,5,Defense,Pull,,,Brandon,3.606,Dave,Cafi,Brandon,Misch,Walder,Rene,Rainer,,,,,,,,,,,,,,,,,,,,,,2565
+2017-05-27 14:49,EUCQ,7Schwaben,258,D,11,5,Defense,D,,,Cafi,,Dave,Cafi,Brandon,Misch,Walder,Rene,Rainer,,,,,,,,,,,,,,,,,,,,,,2569
+2017-05-27 14:49,EUCQ,7Schwaben,258,D,11,5,Offense,Catch,Walder,Misch,,,Dave,Cafi,Brandon,Misch,Walder,Rene,Rainer,,,,,,,,,,,,,,,,,,,,,,2573
+2017-05-27 14:49,EUCQ,7Schwaben,258,D,11,5,Offense,Catch,Misch,Walder,,,Dave,Cafi,Brandon,Misch,Walder,Rene,Rainer,,,,,,,,,,,,,,,,,,,,,,2577
+2017-05-27 14:49,EUCQ,7Schwaben,258,D,11,5,Offense,Catch,Walder,Brandon,,,Dave,Cafi,Brandon,Misch,Walder,Rene,Rainer,,,,,,,,,,,,,,,,,,,,,,2581
+2017-05-27 14:49,EUCQ,7Schwaben,258,D,11,5,Offense,Throwaway,Brandon,Anonymous,,,Dave,Cafi,Brandon,Misch,Walder,Rene,Rainer,,,,,,,,,,,,,,,,,,,,,,2585
+2017-05-27 14:49,EUCQ,7Schwaben,258,D,11,5,Defense,D,,,Dave,,Dave,Cafi,Brandon,Misch,Walder,Rene,Rainer,,,,,,,,,,,,,,,,,,,,,,2693
+2017-05-27 14:49,EUCQ,7Schwaben,258,D,11,5,Offense,Catch,Misch,Dave,,,Dave,Cafi,Brandon,Misch,Walder,Rene,Rainer,,,,,,,,,,,,,,,,,,,,,,2697
+2017-05-27 14:49,EUCQ,7Schwaben,258,D,11,5,Offense,Catch,Dave,Cafi,,,Dave,Cafi,Brandon,Misch,Walder,Rene,Rainer,,,,,,,,,,,,,,,,,,,,,,2701
+2017-05-27 14:49,EUCQ,7Schwaben,258,D,11,5,Offense,Catch,Cafi,Rainer,,,Dave,Cafi,Brandon,Misch,Walder,Rene,Rainer,,,,,,,,,,,,,,,,,,,,,,2705
+2017-05-27 14:49,EUCQ,7Schwaben,258,D,11,5,Offense,Catch,Rainer,Walder,,,Dave,Cafi,Brandon,Misch,Walder,Rene,Rainer,,,,,,,,,,,,,,,,,,,,,,2709
+2017-05-27 14:49,EUCQ,7Schwaben,258,D,11,5,Offense,Catch,Walder,Brandon,,,Dave,Cafi,Brandon,Misch,Walder,Rene,Rainer,,,,,,,,,,,,,,,,,,,,,,2713
+2017-05-27 14:49,EUCQ,7Schwaben,258,D,11,5,Offense,Drop,Brandon,Dave,,,Dave,Cafi,Brandon,Misch,Walder,Rene,Rainer,,,,,,,,,,,,,,,,,,,,,,2717
+2017-05-27 14:49,EUCQ,7Schwaben,258,D,11,5,Defense,Goal,,,Anonymous,,Dave,Cafi,Brandon,Misch,Walder,Rene,Rainer,,,,,,,,,,,,,,,,,,,,,,2821
+2017-05-27 14:49,EUCQ,7Schwaben,143,O,12,5,Offense,Catch,Hans,Matze,,,Flo,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2820
+2017-05-27 14:49,EUCQ,7Schwaben,143,O,12,5,Offense,Catch,Matze,Flo,,,Flo,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2829
+2017-05-27 14:49,EUCQ,7Schwaben,143,O,12,5,Offense,Catch,Flo,Chris,,,Flo,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2949
+2017-05-27 14:49,EUCQ,7Schwaben,143,O,12,5,Offense,Catch,Chris,Mike,,,Flo,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2953
+2017-05-27 14:49,EUCQ,7Schwaben,143,O,12,5,Offense,Catch,Mike,Hans,,,Flo,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2957
+2017-05-27 14:49,EUCQ,7Schwaben,143,O,12,5,Offense,Goal,Hans,Flo,,,Flo,Alan,Hans,Aze,Mike,Matze,Chris,,,,,,,,,,,,,,,,,,,,,,2961
+2017-05-27 14:49,EUCQ,7Schwaben,126,D,13,5,Defense,Pull,,,Moritz,,Dave,Connor,Mou K.,Brandon,Misch,Franz,Moritz,,,,,,,,,,,,,,,,,,,,,,2965
+2017-05-27 14:49,EUCQ,7Schwaben,126,D,13,5,Defense,Throwaway,,,Anonymous,,Dave,Connor,Mou K.,Brandon,Misch,Franz,Moritz,,,,,,,,,,,,,,,,,,,,,,3077
+2017-05-27 14:49,EUCQ,7Schwaben,126,D,13,5,Offense,Catch,Connor,Franz,,,Dave,Connor,Mou K.,Brandon,Misch,Franz,Moritz,,,,,,,,,,,,,,,,,,,,,,3081
+2017-05-27 14:49,EUCQ,7Schwaben,126,D,13,5,Offense,Catch,Franz,Connor,,,Dave,Connor,Mou K.,Brandon,Misch,Franz,Moritz,,,,,,,,,,,,,,,,,,,,,,3085
+2017-05-27 14:49,EUCQ,7Schwaben,126,D,13,5,Offense,Goal,Connor,Moritz,,,Dave,Connor,Mou K.,Brandon,Misch,Franz,Moritz,,,,,,,,,,,,,,,,,,,,,,3089
+2017-05-27 14:49,EUCQ,7Schwaben,126,D,14,5,Defense,Pull,,,Kitchen,4.874,Alan,Brandon,Misch,Rainer,Walder,Matze,Kitchen,,,,,,,,,,,,,,,,,,,,,,3093
+2017-05-27 14:49,EUCQ,7Schwaben,126,D,14,5,Defense,D,,,Matze,,Alan,Brandon,Misch,Rainer,Walder,Matze,Kitchen,,,,,,,,,,,,,,,,,,,,,,3209
+2017-05-27 14:49,EUCQ,7Schwaben,126,D,14,5,Offense,Catch,Alan,Brandon,,,Alan,Brandon,Misch,Rainer,Walder,Matze,Kitchen,,,,,,,,,,,,,,,,,,,,,,3213
+2017-05-27 14:49,EUCQ,7Schwaben,126,D,14,5,Offense,Goal,Brandon,Rainer,,,Alan,Brandon,Misch,Rainer,Walder,Matze,Kitchen,,,,,,,,,,,,,,,,,,,,,,3217
+2017-05-27 14:49,EUCQ,7Schwaben,6,D,14,6,Defense,Pull,,,Kitchen,5.855,Connor,Dave,Cafi,Mou K.,Franz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,3333
+2017-05-27 14:49,EUCQ,7Schwaben,6,D,14,6,Defense,Goal,,,Anonymous,,Connor,Dave,Cafi,Mou K.,Franz,Rene,Kitchen,,,,,,,,,,,,,,,,,,,,,,3337
+2017-05-27 14:49,EUCQ,7Schwaben,19,O,15,6,Offense,Drop,Hans,Matze,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3460
+2017-05-27 14:49,EUCQ,7Schwaben,19,O,15,6,Defense,D,,,Mike,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3469
+2017-05-27 14:49,EUCQ,7Schwaben,19,O,15,6,Offense,Catch,Mike,Hans,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3473
+2017-05-27 14:49,EUCQ,7Schwaben,19,O,15,6,Offense,Goal,Hans,Flo,,,Flo,Alan,Aze,Hans,Mike,Chris,Matze,,,,,,,,,,,,,,,,,,,,,,3477
